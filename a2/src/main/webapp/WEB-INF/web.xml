@@ -12,17 +12,17 @@
  
     <servlet>
       <servlet-name>SearchRoute</servlet-name>
-      <servlet-class>SearchServlet</servlet-class>
+      <servlet-class>csc435.moocme.a2.SearchServlet</servlet-class>
    </servlet>
 
    <servlet>
       <servlet-name>AboutRoute</servlet-name>
-      <servlet-class>AboutServlet</servlet-class>
+      <servlet-class>csc435.moocme.a2.AboutServlet</servlet-class>
    </servlet>
 
    <servlet>
       <servlet-name>CourseRoute</servlet-name>
-      <servlet-class>CourseServlet</servlet-class>
+      <servlet-class>csc435.moocme.a2.CourseServlet</servlet-class>
    </servlet>
 
    <!-- Note: All <servlet> elements MUST be grouped together and
