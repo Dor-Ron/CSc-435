@@ -13,7 +13,8 @@ public class CourseServlet extends HttpServlet {
 
         String descrip = "Introduction to Data Science using the SciPy suite, R, and Hadoop";
         String egUrl = "http://www.cousera.com/courses/1212232323";
-        SearchResult sample = new SearchResult("Intro to Data Science", "Coursera", descrip, egUrl, false);
+        String relURL = "/courses/8080";
+        SearchResult sample = new SearchResult("Intro to Data Science", "Coursera", descrip, egUrl, relURL, false);
         
         // jackson
         ObjectMapper mapper = new ObjectMapper();
@@ -24,20 +25,4 @@ public class CourseServlet extends HttpServlet {
         out.print(jsonString);
         out.flush();
    }
-
-   class SearchResult {
-        public String title;
-        public String platform;
-        public String description;
-        public String url;
-        public Boolean free;
-
-        public SearchResult(String titl, String plat, String desc, String uri, Boolean price) {
-            this.title = titl;
-            this.platform = plat;
-            this.description = desc;
-            this.url = uri;
-            this.free = price;
-        }   
-    }
 }

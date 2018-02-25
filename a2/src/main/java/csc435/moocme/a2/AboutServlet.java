@@ -3,8 +3,6 @@ package csc435.moocme.a2;
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
-import com.fasterxml.jackson.annotation.*;
-import com.fasterxml.jackson.databind.*;
 
 public class AboutServlet extends HttpServlet {
    @Override
