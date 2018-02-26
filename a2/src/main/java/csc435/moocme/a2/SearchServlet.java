@@ -35,7 +35,7 @@ public class SearchServlet extends HttpServlet {
         
         // jackson
         ObjectMapper mapper = new ObjectMapper();
-        String jsonString = mapper.writeValueAsString(arr);
+        String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(arr);
         
         PrintWriter out = res.getWriter();
 

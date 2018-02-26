@@ -18,7 +18,7 @@ public class CourseServlet extends HttpServlet {
         
         // jackson
         ObjectMapper mapper = new ObjectMapper();
-        String jsonString = mapper.writeValueAsString(sample);
+        String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(sample);
         
         PrintWriter out = res.getWriter();
 
