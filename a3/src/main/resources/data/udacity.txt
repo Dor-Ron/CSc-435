@@ -1,0 +1,209 @@
+Mobile Design and Usability for iOS~udacity~Facebook for Developers~false~https://www.udacity.com/course/mobile-design-and-usability-for-ios--ud1034
+Mobile Design and Usability for Android~udacity~Google~true~https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358
+Passwordless Login Solutions for Android~udacity~Nutanix~true~https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357
+Developing Android Apps~udacity~Amazon Web Services~true~https://www.udacity.com/course/new-android-fundamentals--ud851
+Deep Learning~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/deep-learning--ud730
+Localization Essentials~udacity~Zipfian~true~https://www.udacity.com/course/localization-essentials--ud610
+Android Basics: User Input~udacity~Cloudera~true~https://www.udacity.com/course/android-basics-user-input--ud836
+Android Basics: Multiscreen Apps~udacity~Twitter~false~https://www.udacity.com/course/android-basics-multiscreen-apps--ud839
+Android Basics: Networking~udacity~AT&T~true~https://www.udacity.com/course/android-basics-networking--ud843
+Android Basics: Data Storage~udacity~San Jose State University~true~https://www.udacity.com/course/android-basics-data-storage--ud845
+Intro to JavaScript~udacity~Pramp~true~https://www.udacity.com/course/intro-to-javascript--ud803
+Web Accessibility~udacity~Lyft~true~https://www.udacity.com/course/web-accessibility--ud891
+Client-Server Communication~udacity~Venmo~true~https://www.udacity.com/course/client-server-communication--ud897
+Advanced Android App Development~udacity~Buddybuild~true~https://www.udacity.com/course/advanced-android-app-development--ud855
+Gradle for Android and Java~udacity~HubSpot~false~https://www.udacity.com/course/gradle-for-android-and-java--ud867
+Google Location Services on Android~udacity~Hootsuite~true~https://www.udacity.com/course/google-location-services-on-android--ud876-1
+Monetize Your Android App with Ads~udacity~Mozilla~true~https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3
+Add Google Maps to your Android App~udacity~IBM~true~https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4
+Android Performance~udacity~Facebook for Developers~true~https://www.udacity.com/course/android-performance--ud825
+Material Design for Android Developers~udacity~Google~true~https://www.udacity.com/course/material-design-for-android-developers--ud862
+Android TV and Google Cast Development~udacity~Nutanix~true~https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B
+Android Auto Development~udacity~Amazon Web Services~false~https://www.udacity.com/course/android-auto-development--ud875C
+Get Your Startup Started~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/get-your-startup-started--ud806
+Product Design~udacity~Zipfian~true~https://www.udacity.com/course/product-design--ud509
+App Monetization~udacity~Cloudera~true~https://www.udacity.com/course/app-monetization--ud518
+Rapid Prototyping~udacity~Twitter~true~https://www.udacity.com/course/rapid-prototyping--ud723
+App Marketing~udacity~AT&T~true~https://www.udacity.com/course/app-marketing--ud719
+2D Game Development with libGDX~udacity~San Jose State University~true~https://www.udacity.com/course/2d-game-development-with-libgdx--ud405
+How to Make a Platformer Using libGDX~udacity~Pramp~false~https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406
+Dynamic Web Applications with Sinatra~udacity~Lyft~true~https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268
+The MVC Pattern in Ruby~udacity~Venmo~true~https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270
+Deploying Applications with Heroku~udacity~Buddybuild~true~https://www.udacity.com/course/deploying-applications-with-heroku--ud272
+Problem Solving with Advanced Analytics~udacity~HubSpot~true~https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976
+Creating an Analytical Dataset~udacity~Hootsuite~true~https://www.udacity.com/course/creating-an-analytical-dataset--ud977
+Classification Models~udacity~Mozilla~true~https://www.udacity.com/course/classification-models--ud978
+A/B Testing for Business Analysts~udacity~IBM~false~https://www.udacity.com/course/ab-testing--ud979
+Offline Web Applications~udacity~Facebook for Developers~true~https://www.udacity.com/course/offline-web-applications--ud899
+Version Control with Git~udacity~Google~true~https://www.udacity.com/course/version-control-with-git--ud123
+JavaScript Promises~udacity~Nutanix~true~https://www.udacity.com/course/javascript-promises--ud898
+Building High Conversion Web Forms~udacity~Amazon Web Services~true~https://www.udacity.com/course/building-high-conversion-web-forms--ud890
+Web Tooling &amp; Automation~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/web-tooling-automation--ud892
+Designing RESTful APIs~udacity~Zipfian~true~https://www.udacity.com/course/designing-restful-apis--ud388
+Writing READMEs~udacity~Cloudera~false~https://www.udacity.com/course/writing-readmes--ud777
+Intro to DevOps~udacity~Twitter~true~https://www.udacity.com/course/intro-to-devops--ud611
+Intro to HTML and CSS~udacity~AT&T~true~https://www.udacity.com/course/intro-to-html-and-css--ud001
+Intro to Computer Science~udacity~San Jose State University~true~https://www.udacity.com/course/intro-to-computer-science--cs101
+Asynchronous JavaScript Requests~udacity~Pramp~true~https://www.udacity.com/course/asynchronous-javascript-requests--ud109
+Linux Command Line Basics~udacity~Lyft~true~https://www.udacity.com/course/linux-command-line-basics--ud595
+How to Use Git and GitHub~udacity~Venmo~true~https://www.udacity.com/course/how-to-use-git-and-github--ud775
+Programming Foundations with Python~udacity~Buddybuild~false~https://www.udacity.com/course/programming-foundations-with-python--ud036
+Intro to iOS App Development with Swift~udacity~HubSpot~true~https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585
+Intro to Relational Databases~udacity~Hootsuite~true~https://www.udacity.com/course/intro-to-relational-databases--ud197
+Full Stack Foundations~udacity~Mozilla~true~https://www.udacity.com/course/full-stack-foundations--ud088
+Authentication &amp; Authorization: OAuth~udacity~IBM~true~https://www.udacity.com/course/authentication-authorization-oauth--ud330
+Responsive Web Design Fundamentals~udacity~Facebook for Developers~true~https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
+Responsive Images~udacity~Google~true~https://www.udacity.com/course/responsive-images--ud882
+Browser Rendering Optimization~udacity~Nutanix~false~https://www.udacity.com/course/browser-rendering-optimization--ud860
+JavaScript Design Patterns~udacity~Amazon Web Services~true~https://www.udacity.com/course/javascript-design-patterns--ud989
+Learn Backbone.js~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/learn-backbonejs--ud990
+JavaScript Testing~udacity~Zipfian~true~https://www.udacity.com/course/javascript-testing--ud549
+Configuring Linux Web Servers~udacity~Cloudera~true~https://www.udacity.com/course/configuring-linux-web-servers--ud299
+How to Build a Startup~udacity~Twitter~true~https://www.udacity.com/course/how-to-build-a-startup--ep245
+Learn Swift Programming Syntax~udacity~AT&T~true~https://www.udacity.com/course/learn-swift-programming-syntax--ud902
+UIKit Fundamentals~udacity~San Jose State University~false~https://www.udacity.com/course/uikit-fundamentals--ud788
+Firebase in a Weekend: iOS~udacity~Pramp~true~https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351
+Firebase in a Weekend: Android~udacity~Lyft~true~https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352
+iOS Networking with Swift~udacity~Venmo~true~https://www.udacity.com/course/ios-networking-with-swift--ud421
+Grand Central Dispatch (GCD)~udacity~Buddybuild~true~https://www.udacity.com/course/grand-central-dispatch-gcd--ud576
+iOS Persistence and Core Data~udacity~HubSpot~true~https://www.udacity.com/course/ios-persistence-and-core-data--ud325
+How to Make an iOS App~udacity~Hootsuite~true~https://www.udacity.com/course/how-to-make-an-ios-app--ud607
+GitHub &amp; Collaboration~udacity~Mozilla~false~https://www.udacity.com/course/github-collaboration--ud456
+Introduction to Python~udacity~IBM~true~https://www.udacity.com/course/introduction-to-python--ud1110
+Database Systems Concepts &amp; Design~udacity~Facebook for Developers~true~https://www.udacity.com/course/database-systems-concepts-design--ud150
+Compilers: Theory and Practice~udacity~Google~true~https://www.udacity.com/course/compilers-theory-and-practice--ud168
+Embedded Systems~udacity~Nutanix~true~https://www.udacity.com/course/embedded-systems--ud169
+Network Security~udacity~Amazon Web Services~true~https://www.udacity.com/course/network-security--ud199
+Cyber-Physical Systems Security~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/cyber-physical-systems-security--ud279
+Software Analysis &amp; Testing~udacity~Zipfian~false~https://www.udacity.com/course/software-analysis-testing--ud333
+Human-Computer Interaction~udacity~Cloudera~true~https://www.udacity.com/course/human-computer-interaction--ud400
+Data Analysis and Visualization~udacity~Twitter~true~https://www.udacity.com/course/data-analysis-and-visualization--ud404
+Artificial Intelligence~udacity~AT&T~true~https://www.udacity.com/course/artificial-intelligence--ud954
+ES6 - JavaScript Improved~udacity~San Jose State University~true~https://www.udacity.com/course/es6-javascript-improved--ud356
+Xcode Debugging~udacity~Pramp~true~https://www.udacity.com/course/xcode-debugging--ud774
+A/B Testing~udacity~Lyft~true~https://www.udacity.com/course/ab-testing--ud257
+Data Visualization and D3.js~udacity~Venmo~false~https://www.udacity.com/course/data-visualization-and-d3js--ud507
+Intro to Machine Learning~udacity~Buddybuild~true~https://www.udacity.com/course/intro-to-machine-learning--ud120
+Intro to Hadoop and MapReduce~udacity~HubSpot~true~https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
+Real-Time Analytics with Apache Storm~udacity~Hootsuite~true~https://www.udacity.com/course/real-time-analytics-with-apache-storm--ud381
+Cyber-Physical Systems Design &amp; Analysis~udacity~Mozilla~true~https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876
+Intro to Data Analysis~udacity~IBM~true~https://www.udacity.com/course/intro-to-data-analysis--ud170
+Intro to Data Science~udacity~Facebook for Developers~true~https://www.udacity.com/course/intro-to-data-science--ud359
+HTML5 Canvas~udacity~Google~false~https://www.udacity.com/course/html5-canvas--ud292
+Intro to jQuery~udacity~Nutanix~true~https://www.udacity.com/course/intro-to-jquery--ud245
+Intro to AJAX~udacity~Amazon Web Services~true~https://www.udacity.com/course/intro-to-ajax--ud110
+Intro to Artificial Intelligence~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
+Data Analysis with R~udacity~Zipfian~true~https://www.udacity.com/course/data-analysis-with-r--ud651
+UX Design for Mobile Developers~udacity~Cloudera~true~https://www.udacity.com/course/ux-design-for-mobile-developers--ud849
+Developing Scalable Apps in Java~udacity~Twitter~true~https://www.udacity.com/course/developing-scalable-apps-in-java--ud859
+Intro to Descriptive Statistics~udacity~AT&T~false~https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+Intro to Inferential Statistics~udacity~San Jose State University~true~https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+Introduction to Operating Systems~udacity~Pramp~true~https://www.udacity.com/course/introduction-to-operating-systems--ud923
+Intro to Information Security~udacity~Lyft~true~https://www.udacity.com/course/intro-to-information-security--ud459
+Advanced Operating Systems~udacity~Venmo~true~https://www.udacity.com/course/advanced-operating-systems--ud189
+Computability, Complexity &amp; Algorithms~udacity~Buddybuild~true~https://www.udacity.com/course/computability-complexity-algorithms--ud061
+Shell Workshop~udacity~HubSpot~true~https://www.udacity.com/course/shell-workshop--ud206
+HTTP &amp; Web Servers~udacity~Hootsuite~false~https://www.udacity.com/course/http-web-servers--ud303
+Knowledge-Based AI: Cognitive Systems~udacity~Mozilla~true~https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409
+Machine Learning for Trading~udacity~IBM~true~https://www.udacity.com/course/machine-learning-for-trading--ud501
+High Performance Computer Architecture~udacity~Facebook for Developers~true~https://www.udacity.com/course/high-performance-computer-architecture--ud007
+High Performance Computing~udacity~Google~true~https://www.udacity.com/course/high-performance-computing--ud281
+Health Informatics in the Cloud~udacity~Nutanix~true~https://www.udacity.com/course/health-informatics-in-the-cloud--ud809
+Computer Networking~udacity~Amazon Web Services~true~https://www.udacity.com/course/computer-networking--ud436
+Computational Photography~udacity~Georgia Institute of Technology~false~https://www.udacity.com/course/computational-photography--ud955
+Software Development Process~udacity~Zipfian~true~https://www.udacity.com/course/software-development-process--ud805
+Software Architecture &amp; Design~udacity~Cloudera~true~https://www.udacity.com/course/software-architecture-design--ud821
+Artificial Intelligence for Robotics~udacity~Twitter~true~https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+Introduction to Computer Vision~udacity~AT&T~true~https://www.udacity.com/course/introduction-to-computer-vision--ud810
+Educational Technology~udacity~San Jose State University~true~https://www.udacity.com/course/educational-technology--ud915
+Reinforcement Learning~udacity~Pramp~true~https://www.udacity.com/course/reinforcement-learning--ud600
+Linear Algebra Refresher Course~udacity~Lyft~false~https://www.udacity.com/course/linear-algebra-refresher-course--ud953
+Data Wrangling with MongoDB~udacity~Venmo~true~https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
+Model Building and Validation~udacity~Buddybuild~true~https://www.udacity.com/course/model-building-and-validation--ud919
+Intro to the Design of Everyday Things~udacity~HubSpot~true~https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101
+Website Performance Optimization~udacity~Hootsuite~true~https://www.udacity.com/course/website-performance-optimization--ud884
+Applied Cryptography~udacity~Mozilla~true~https://www.udacity.com/course/applied-cryptography--cs387
+Intro to Statistics~udacity~IBM~true~https://www.udacity.com/course/intro-to-statistics--st101
+Intro Algebra Review~udacity~Facebook for Developers~false~https://www.udacity.com/course/intro-algebra-review--ma004
+College Algebra~udacity~Google~true~https://www.udacity.com/course/college-algebra--ma008
+Visualizing Algebra~udacity~Nutanix~true~https://www.udacity.com/course/visualizing-algebra--ma006
+Software Testing~udacity~Amazon Web Services~true~https://www.udacity.com/course/software-testing--cs258
+Intro to Algorithms~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/intro-to-algorithms--cs215
+Interactive 3D Graphics~udacity~Zipfian~true~https://www.udacity.com/course/interactive-3d-graphics--cs291
+Programming Languages~udacity~Cloudera~true~https://www.udacity.com/course/programming-languages--cs262
+Design of Computer Programs~udacity~Twitter~false~https://www.udacity.com/course/design-of-computer-programs--cs212
+Differential Equations in Action~udacity~AT&T~true~https://www.udacity.com/course/differential-equations-in-action--cs222
+Software Debugging~udacity~San Jose State University~true~https://www.udacity.com/course/software-debugging--cs259
+Intro to Theoretical Computer Science~udacity~Pramp~true~https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
+Machine Learning~udacity~Lyft~true~https://www.udacity.com/course/machine-learning--ud262
+Intro to Physics~udacity~Venmo~true~https://www.udacity.com/course/intro-to-physics--ph100
+Tales from the Genome~udacity~Buddybuild~true~https://www.udacity.com/course/tales-from-the-genome--bio110
+Intro to Psychology~udacity~HubSpot~false~https://www.udacity.com/course/intro-to-psychology--ps001
+OMSCS Student Orientation~udacity~Hootsuite~true~https://www.udacity.com/course/omscs-student-orientation--gt101
+GT - Refresher - Advanced OS~udacity~Mozilla~true~https://www.udacity.com/course/gt-refresher-advanced-os--ud098
+Statistics~udacity~IBM~true~https://www.udacity.com/course/statistics--st095
+Engagement &amp; Monetization | Mobile Games~udacity~Facebook for Developers~true~https://www.udacity.com/course/engagement-monetization-mobile-games--ud407
+Networking for Web Developers~udacity~Google~true~https://www.udacity.com/course/networking-for-web-developers--ud256
+Front End Frameworks~udacity~Nutanix~true~https://www.udacity.com/course/front-end-frameworks--ud894
+Technical Interview~udacity~Amazon Web Services~false~https://www.udacity.com/course/technical-interview--ud513
+Deploying a Hadoop Cluster~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000
+Scalable Microservices with Kubernetes~udacity~Zipfian~true~https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+Objective-C for Swift Developers~udacity~Cloudera~true~https://www.udacity.com/course/objective-c-for-swift-developers--ud1009
+Google Maps APIs~udacity~Twitter~true~https://www.udacity.com/course/google-maps-apis--ud864
+Intro to Progressive Web Apps~udacity~AT&T~true~https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+Java Programming Basics~udacity~San Jose State University~true~https://www.udacity.com/course/java-programming-basics--ud282
+Object Oriented Programming in Java~udacity~Pramp~false~https://www.udacity.com/course/object-oriented-programming-in-java--ud283
+Big Data Analytics in Healthcare~udacity~Lyft~true~https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758
+Time Series Forecasting~udacity~Venmo~true~https://www.udacity.com/course/time-series-forecasting--ud980
+Segmentation and Clustering~udacity~Buddybuild~true~https://www.udacity.com/course/segmentation-and-clustering--ud981
+Data Visualization in Tableau~udacity~HubSpot~true~https://www.udacity.com/course/data-visualization-in-tableau--ud1006
+Introduction to Virtual Reality~udacity~Hootsuite~true~https://www.udacity.com/course/introduction-to-virtual-reality--ud1012
+VR Scenes and Objects~udacity~Mozilla~true~https://www.udacity.com/course/vr-scenes-and-objects--ud1013
+VR Software Development~udacity~IBM~false~https://www.udacity.com/course/vr-software-development--ud1014
+Swift for Beginners~udacity~Facebook for Developers~true~https://www.udacity.com/course/swift-for-beginners--ud1022
+Swift for Developers~udacity~Google~true~https://www.udacity.com/course/swift-for-developers--ud1025
+Server-Side Swift~udacity~Nutanix~true~https://www.udacity.com/course/server-side-swift--ud1031
+AutoLayout~udacity~Amazon Web Services~true~https://www.udacity.com/course/auto-layout--ud1026
+Building iOS Interfaces~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/building-ios-interfaces--ud1027
+iOS Design Patterns~udacity~Zipfian~true~https://www.udacity.com/course/ios-design-patterns--ud1029
+Continuous Integration and Deployment~udacity~Cloudera~false~https://www.udacity.com/course/continuous-integration-and-deployment--ud1030
+Android Basics: User Interface~udacity~Twitter~true~https://www.udacity.com/course/android-basics-user-interface--ud834
+Firebase Analytics: iOS~udacity~AT&T~true~https://www.udacity.com/course/firebase-analytics-ios--ud353
+Firebase Analytics: Android~udacity~San Jose State University~true~https://www.udacity.com/course/firebase-analytics-android--ud354
+Core ML: Machine Learning for iOS~udacity~Pramp~true~https://www.udacity.com/course/core-ml--ud1038
+Passwordless Login Solutions for iOS~udacity~Lyft~true~https://www.udacity.com/course/passwordless-login-solutions-for-ios--ud1028
+Digital Marketing Fundamentals~udacity~Venmo~true~https://www.udacity.com/course/digital-marketing-fundamentals--cx11
+Content Marketing Essentials~udacity~Buddybuild~false~https://www.udacity.com/course/content-marketing-essentials--cx12
+Social Media Marketing~udacity~HubSpot~true~https://www.udacity.com/course/social-media-marketing--cx13
+Social Media Advertising~udacity~Hootsuite~true~https://www.udacity.com/course/social-media-advertising--cx14
+Search Engine Optimization (SEO)~udacity~Mozilla~true~https://www.udacity.com/course/search-engine-optimization--cx15
+Search Engine Marketing with AdWords (SEM)~udacity~IBM~true~https://www.udacity.com/course/search-engine-marketing-adwords--cx16
+Display Advertising~udacity~Facebook for Developers~true~https://www.udacity.com/course/display-advertising--cx17
+Measure &amp; Optimize with Google Analytics~udacity~Google~true~https://www.udacity.com/course/measure-optimize-with-google-analytics--cx19
+Eigenvectors and Eigenvalues~udacity~Nutanix~false~https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104
+Deep Learning - Generative Adversarial Networks~udacity~Amazon Web Services~true~https://www.udacity.com/course/generative-adversarial-networks--cx20
+Deep Learning - Recurrent Neural Networks~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/recurrent-neural-networks--cx21
+Deep Learning - Convolutional Neural Networks~udacity~Zipfian~true~https://www.udacity.com/course/convolutional-neural-networks--cx22
+Artificial Intelligence - Voice User Interfaces~udacity~Cloudera~true~https://www.udacity.com/course/voice-user-interface--cx23
+Artificial Intelligence - Natural Language Processing~udacity~Twitter~true~https://www.udacity.com/course/natural-language-processing--cx24
+Artificial Intelligence - Computer Vision~udacity~AT&T~true~https://www.udacity.com/course/computer-vision--cx25
+Artificial Intelligence - Deep Learning~udacity~San Jose State University~false~https://www.udacity.com/course/artificial-intelligence-deep-learning--cx26
+Artificial Intelligence - Probabalistic Models~udacity~Pramp~true~https://www.udacity.com/course/probabalistic-models--cx27
+Artificial Intelligence - Logic, Reasoning, and Planning~udacity~Lyft~true~https://www.udacity.com/course/ai-logic-reasoning-planning--cx28
+Artificial Intelligence - Search and Optimization~udacity~Venmo~true~https://www.udacity.com/course/ai-search-optimization--cx29
+Excel Fundamentals~udacity~Buddybuild~true~https://www.udacity.com/course/learn-excel--cx30
+Self-Driving Car Engineer - Deep Learning~udacity~HubSpot~true~https://www.udacity.com/course/sdc-deep-learning--cx31
+Self-Driving Car Engineer - Computer Vision~udacity~Hootsuite~true~https://www.udacity.com/course/sdc-computer-vision--cx32
+Self-Driving Car Engineer - Sensor Fusion~udacity~Mozilla~false~https://www.udacity.com/course/sdc-sensor-fusion--cx33
+Self-Driving Car Engineer - Control~udacity~IBM~true~https://www.udacity.com/course/sdc-control--cx35
+Self-Driving Car Engineer - Path Planning~udacity~Facebook for Developers~true~https://www.udacity.com/course/sdc-path-planning--cx36
+Self-Driving Car Engineer - Advanced Deep Learning~udacity~Google~true~https://www.udacity.com/course/sdc-advanced-deep-learning--cx37
+Self-Driving Car Engineer - Functional Safety~udacity~Nutanix~true~https://www.udacity.com/course/sdc-functional-safety--cx38
+Self-Driving Car Engineer - System Integration~udacity~Amazon Web Services~true~https://www.udacity.com/course/sdc-system-integration--cx39
+C++ For Programmers~udacity~Georgia Institute of Technology~true~https://www.udacity.com/course/c-for-programmers--ud210
+React Fundamentals~udacity~Zipfian~false~https://www.udacity.com/course/react-fundamentals--cx43
+React &amp; Redux~udacity~Cloudera~true~https://www.udacity.com/course/react-redux--cx44
+React Native~udacity~Twitter~true~https://www.udacity.com/course/react-native--cx45
+Kotlin for Android Developers~udacity~AT&T~true~https://www.udacity.com/course/kotlin-for-android-developers--ud888
+Object-Oriented JavaScript~udacity~San Jose State University~true~https://www.udacity.com/course/object-oriented-javascript--ud711
+JavaScript and the DOM~udacity~Pramp~true~https://www.udacity.com/course/javascript-and-the-dom--ud117
