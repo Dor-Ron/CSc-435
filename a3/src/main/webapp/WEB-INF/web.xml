@@ -5,47 +5,96 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 
-     <servlet>
-      <servlet-name>IndexRoute</servlet-name>
-      <servlet-class>csc435.moocme.a3.IndexServlet</servlet-class>
-   </servlet>
- 
-    <servlet>
-      <servlet-name>SearchRoute</servlet-name>
-      <servlet-class>csc435.moocme.a3.SearchServlet</servlet-class>
-   </servlet>
-
    <servlet>
-      <servlet-name>AboutRoute</servlet-name>
-      <servlet-class>csc435.moocme.a3.AboutServlet</servlet-class>
-   </servlet>
-
-   <servlet>
-      <servlet-name>CourseRoute</servlet-name>
+      <servlet-name>CoursesRoute</servlet-name>
       <servlet-class>csc435.moocme.a3.CourseServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>CoursesViewRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.CourseServletView</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>PlatformRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.PlatformServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>PlatformViewRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.PlatformServletView</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>TableRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.TableServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>TableViewRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.TableServletView</servlet-class>
    </servlet>
 
    <!-- Note: All <servlet> elements MUST be grouped together and
          placed IN FRONT of the <servlet-mapping> elements -->
  
+
    <servlet-mapping>
-      <servlet-name>IndexRoute</servlet-name>
-      <url-pattern>/</url-pattern>
+      <servlet-name>CoursesRoute</servlet-name>
+      <url-pattern>/courses</url-pattern>
    </servlet-mapping>
 
    <servlet-mapping>
-      <servlet-name>SearchRoute</servlet-name>
-      <url-pattern>/search</url-pattern>
+      <servlet-name>CoursesViewRoute</servlet-name>
+      <url-pattern>/coursesview</url-pattern>
    </servlet-mapping>
 
    <servlet-mapping>
-      <servlet-name>AboutRoute</servlet-name>
-      <url-pattern>/about</url-pattern>
+      <servlet-name>PlatformRoute</servlet-name>
+      <url-pattern>/courses/coursera</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>PlatformRoute</servlet-name>
+      <url-pattern>/courses/edx</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>PlatformRoute</servlet-name>
+      <url-pattern>/courses/udacity</url-pattern>
    </servlet-mapping>
 
    <servlet-mapping>
-      <servlet-name>CourseRoute</servlet-name>
-      <url-pattern>/courses/*</url-pattern>
+      <servlet-name>PlatformViewRoute</servlet-name>
+      <url-pattern>/courseraview</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>PlatformViewRoute</servlet-name>
+      <url-pattern>/edxview</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>PlatformViewRoute</servlet-name>
+      <url-pattern>/udacityview</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>TableRoute</servlet-name>
+      <url-pattern>/courses/coursera/*</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>TableRoute</servlet-name>
+      <url-pattern>/courses/udacity/*</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>TableRoute</servlet-name>
+      <url-pattern>/courses/edx/*</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>TableViewRoute</servlet-name>
+      <url-pattern>/tableview</url-pattern>
    </servlet-mapping>
 </web-app>
 
