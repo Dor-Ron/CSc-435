@@ -22,9 +22,10 @@ public class PlatformServletView extends HttpServlet {
 
             out.print(jsonString);
             out.flush();
-        }
-
-        out.print("{ \"success\": false }");
-        out.flush();
+        } else {
+            out.print("{ \"success\": false }");
+            out.flush();
+        } 
+        out.close();
     }
 }

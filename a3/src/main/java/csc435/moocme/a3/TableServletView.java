@@ -1,8 +1,6 @@
 package csc435.moocme.a3;
 
 import java.io.*;
-import java.util.stream.Collectors;
-import java.sql.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 import com.fasterxml.jackson.annotation.*;
@@ -16,15 +14,17 @@ public class TableServletView extends HttpServlet {
         HttpSession session = req.getSession();
         PrintWriter out = res.getWriter();
 
-        if (session.getAttribute("chosenCourse") != null) {
+        if (session.getAttribute("allCourses") != null) {
+            // jackson
             ObjectMapper mapper = new ObjectMapper();
-            String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(session.getAttribute("chosenCourse"));
+            String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(session.getAttribute("allCourses"));
 
             out.print(jsonString);
             out.flush();
         } else {
             out.print("{ \"success\": false }");
             out.flush();
-        }   
+        }
+        out.close();   
     }
 }

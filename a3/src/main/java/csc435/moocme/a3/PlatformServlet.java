@@ -24,6 +24,7 @@ public class PlatformServlet extends HttpServlet {
    
            stmt = conn.createStatement();
    
+           // get relative uri
            String relUrl = req.getRequestURI().substring(req.getContextPath().length());
            String sqlStr;
            ArrayList<ReqJsonObject> passOn = new ArrayList<ReqJsonObject>();
@@ -32,45 +33,44 @@ public class PlatformServlet extends HttpServlet {
            ServletContext context = getServletContext();
            RequestDispatcher rd; 
 
-           if (relUrl.toLowerCase().contains("coursera")) {
+           if (relUrl.toLowerCase().contains("coursera")) { // /courses/coursera
                 sqlStr = "select * from courses where platform=\"coursera\";";
                 rs = stmt.executeQuery(sqlStr);
                 populateArrayList(rs, passOn);
                 session.setAttribute("platformCourses", passOn);
-                rd = context.getRequestDispatcher("/courseraview");
+                rd = context.getRequestDispatcher("/platformview");
                 rd.forward(req,res);
-           } else if (relUrl.toLowerCase().contains("edx")) {
+           } else if (relUrl.toLowerCase().contains("edx")) { // /courses/edx
                 sqlStr = "select * from courses where platform=\"edx\";";
                 rs = stmt.executeQuery(sqlStr);
                 populateArrayList(rs, passOn);
                 session.setAttribute("platformCourses", passOn);
-                rd = context.getRequestDispatcher("/edxview");
+                rd = context.getRequestDispatcher("/platformview");
                 rd.forward(req,res);
-           } else { 
+           } else { // /courses/udacity
                 sqlStr = "select * from courses where platform=\"udacity\"";
                 rs = stmt.executeQuery(sqlStr);
                 populateArrayList(rs, passOn);
                 session.setAttribute("platformCourses", passOn);
-                rd = context.getRequestDispatcher("/udacityview");
+                rd = context.getRequestDispatcher("/platformview");
                 rd.forward(req,res);
            }
        } catch (SQLException ex) {
           ex.printStackTrace();
+          out.print("{ \"success\": false }");
        } catch (ClassNotFoundException ex) {
           ex.printStackTrace();
+          out.print("{ \"success\": false }");
        } finally {
-          out.close();  // Close the output writer
+          out.flush();
+          out.close();  
           try {
-             // Step 5: Close the resources
              if (stmt != null) stmt.close();
              if (conn != null) conn.close();
           } catch (SQLException ex) {
              ex.printStackTrace();
           }
        }
-
-        out.print("{ \"success\": false }");
-        out.flush();
    }
 
    @Override
@@ -119,9 +119,12 @@ public class PlatformServlet extends HttpServlet {
 
          } catch (SQLException ex) {
             ex.printStackTrace();
+            out.print("{ \"success\": false }");
          } catch (ClassNotFoundException ex) {
             ex.printStackTrace();
+            out.print("{ \"success\": false }");
          } finally {
+            out.flush();
             out.close();  
             try {
                if (stmt != null) stmt.close();
@@ -130,11 +133,15 @@ public class PlatformServlet extends HttpServlet {
                ex.printStackTrace();
             }
          }
-
-        out.print("{ \"success\": false }");
-        out.flush();
     }
 
+
+   /** 
+     * populates arraylist with RJOs
+     *
+     * @param rs       ResultSet type for sql query results.
+     * @param passOn   ArrayList<ReqJsonObject> meant to be populated by function.
+     **/
    public void populateArrayList(ResultSet rs, ArrayList<ReqJsonObject> passOn) throws SQLException {
         while (rs.next()) {
             passOn.add(

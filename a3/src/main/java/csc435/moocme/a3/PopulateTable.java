@@ -17,20 +17,20 @@ public class PopulateTable {
         int x = 0;
 
         try{
-            Class.forName("com.mysql.jdbc.Driver");  // Needed for JDK9/Tomcat9
+            Class.forName("com.mysql.jdbc.Driver");  
             conn = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/moocs?useSSL=false", "root", "");
 
             stmt = conn.createStatement();
             
             for (String file: files) {
-                //Create object of FileReader
+                // read file from path + file string
                 FileReader inputFile = new FileReader(path+file);
     
                 BufferedReader bufferReader = new BufferedReader(inputFile);
                 String line;
     
-                // Read file line by line and print on the console
+                // make unique sql query for each line of files
                 while ((line = bufferReader.readLine()) != null) {
                     params = line.split("~");
                     System.out.println(params[0]);
