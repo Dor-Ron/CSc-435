@@ -1,0 +1,90 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+   <servlet>
+      <servlet-name>TableRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.TableServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>TableViewRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.TableServletView</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>PlatformRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.PlatformServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>PlatformViewRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.PlatformServletView</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>CourseRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.CourseServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>CourseViewRoute</servlet-name>
+      <servlet-class>csc435.moocme.a3.CourseServletView</servlet-class>
+   </servlet>
+
+   <!-- Note: All <servlet> elements MUST be grouped together and
+         placed IN FRONT of the <servlet-mapping> elements -->
+ 
+
+   <servlet-mapping>
+      <servlet-name>TableRoute</servlet-name>
+      <url-pattern>/courses</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>TableViewRoute</servlet-name>
+      <url-pattern>/tableview</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>PlatformRoute</servlet-name>
+      <url-pattern>/courses/coursera</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>PlatformRoute</servlet-name>
+      <url-pattern>/courses/edx</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>PlatformRoute</servlet-name>
+      <url-pattern>/courses/udacity</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>PlatformViewRoute</servlet-name>
+      <url-pattern>/platformview</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>CourseRoute</servlet-name>
+      <url-pattern>/courses/coursera/*</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>CourseRoute</servlet-name>
+      <url-pattern>/courses/udacity/*</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>CourseRoute</servlet-name>
+      <url-pattern>/courses/edx/*</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>CourseViewRoute</servlet-name>
+      <url-pattern>/courseview</url-pattern>
+   </servlet-mapping>
+</web-app>
+

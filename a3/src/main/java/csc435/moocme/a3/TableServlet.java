@@ -25,6 +25,8 @@ public class TableServlet extends HttpServlet {
            stmt = conn.createStatement();
    
            String sqlStr = "select * from courses;";
+           if (req.getParameter("free").equals("true"))
+                sqlStr = "select * from courses where free=true;";
     
            ArrayList<ReqJsonObject> passOn = new ArrayList<ReqJsonObject>();
            ResultSet rs = stmt.executeQuery(sqlStr);

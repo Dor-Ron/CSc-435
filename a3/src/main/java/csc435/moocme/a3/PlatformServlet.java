@@ -34,7 +34,9 @@ public class PlatformServlet extends HttpServlet {
            RequestDispatcher rd; 
 
            if (relUrl.toLowerCase().contains("coursera")) { // /courses/coursera
-                sqlStr = "select * from courses where platform=\"coursera\";";
+                sqlStr = "select * from courses where platform=\"coursera\"";
+                if (req.getParameter("free") != null && req.getParameter("free").equals("true"))
+                    sqlStr = "select * from courses where platform=\"coursera\" and free=true;";
                 rs = stmt.executeQuery(sqlStr);
                 populateArrayList(rs, passOn);
                 session.setAttribute("platformCourses", passOn);
@@ -42,6 +44,8 @@ public class PlatformServlet extends HttpServlet {
                 rd.forward(req,res);
            } else if (relUrl.toLowerCase().contains("edx")) { // /courses/edx
                 sqlStr = "select * from courses where platform=\"edx\";";
+                if (req.getParameter("free") != null && req.getParameter("free").equals("true"))
+                    sqlStr = "select * from courses where platform=\"edx\" and free=true;";
                 rs = stmt.executeQuery(sqlStr);
                 populateArrayList(rs, passOn);
                 session.setAttribute("platformCourses", passOn);
@@ -49,6 +53,8 @@ public class PlatformServlet extends HttpServlet {
                 rd.forward(req,res);
            } else { // /courses/udacity
                 sqlStr = "select * from courses where platform=\"udacity\"";
+                if (req.getParameter("free") != null && req.getParameter("free").equals("true"))
+                    sqlStr = "select * from courses where platform=\"udacity\" and free=true;";
                 rs = stmt.executeQuery(sqlStr);
                 populateArrayList(rs, passOn);
                 session.setAttribute("platformCourses", passOn);
@@ -82,57 +88,63 @@ public class PlatformServlet extends HttpServlet {
 
         Connection conn = null;
         Statement stmt = null;
-        try {
-           Class.forName("com.mysql.jdbc.Driver");  
-           conn = DriverManager.getConnection(
-              "jdbc:mysql://localhost:3306/moocs?useSSL=false", "root", ""); 
-   
-           stmt = conn.createStatement();
+        if (req.getParameter("authenticated") != null && req.getParameter("authenticated").equals("true")) { 
+            try {
+            Class.forName("com.mysql.jdbc.Driver");  
+            conn = DriverManager.getConnection(
+                "jdbc:mysql://localhost:3306/moocs?useSSL=false", "root", ""); 
+    
+            stmt = conn.createStatement();
 
-           String sqlStr;
-           ObjectMapper mapper = new ObjectMapper();
-           ReqJsonObject newObj = mapper.readValue(req.getInputStream(), ReqJsonObject.class);
+            String sqlStr;
+            ObjectMapper mapper = new ObjectMapper();
+            ReqJsonObject newObj = mapper.readValue(req.getInputStream(), ReqJsonObject.class);
 
-           sqlStr = "insert into courses (title, institution, uri, free, platform) values (\"" +
-                    newObj.title + "\", \"" + newObj.institution + "\", \"" + newObj.url + "\"," +
-                    newObj.free + ", \"" + newObj.platform + "\");";
+            sqlStr = "insert into courses (title, institution, uri, free, platform) values (\"" +
+                        newObj.title + "\", \"" + newObj.institution + "\", \"" + newObj.url + "\"," +
+                        newObj.free + ", \"" + newObj.platform + "\");";
 
-            stmt.executeUpdate(sqlStr);
+                stmt.executeUpdate(sqlStr);
 
-            sqlStr = "select * from courses where title=" + "\"" + newObj.title + "\"";
+                sqlStr = "select * from courses where title=" + "\"" + newObj.title + "\"";
 
-            ReqJsonObject ret = null;
-            ResultSet rs = stmt.executeQuery(sqlStr);
-            while (rs.next()) {
-                ret = new ReqJsonObject(rs.getInt("id"),
-                                        rs.getString("title"),
-                                        rs.getString("platform"),
-                                        rs.getString("institution"),
-                                        rs.getString("uri"),
-                                        rs.getBoolean("free"));
-            }
+                ReqJsonObject ret = null;
+                ResultSet rs = stmt.executeQuery(sqlStr);
+                while (rs.next()) {
+                    ret = new ReqJsonObject(rs.getInt("id"),
+                                            rs.getString("title"),
+                                            rs.getString("platform"),
+                                            rs.getString("institution"),
+                                            rs.getString("uri"),
+                                            rs.getBoolean("free"));
+                }
 
-            mapper = new ObjectMapper();
-            String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(ret);
+                mapper = new ObjectMapper();
+                String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(ret);
 
-            out.print(jsonString);
+                out.print(jsonString);
 
-         } catch (SQLException ex) {
-            ex.printStackTrace();
+            } catch (SQLException ex) {
+                ex.printStackTrace();
+                out.print("{ \"success\": false }");
+            } catch (ClassNotFoundException ex) {
+                ex.printStackTrace();
+                out.print("{ \"success\": false }");
+            } finally {
+                out.flush();
+                out.close();  
+                try {
+                if (stmt != null) stmt.close();
+                if (conn != null) conn.close();
+                } catch (SQLException ex) {
+                ex.printStackTrace();
+                }
+            } 
+        } else {
             out.print("{ \"success\": false }");
-         } catch (ClassNotFoundException ex) {
-            ex.printStackTrace();
-            out.print("{ \"success\": false }");
-         } finally {
             out.flush();
             out.close();  
-            try {
-               if (stmt != null) stmt.close();
-               if (conn != null) conn.close();
-            } catch (SQLException ex) {
-               ex.printStackTrace();
-            }
-         }
+        }
     }
 
 

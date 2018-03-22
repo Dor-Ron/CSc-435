@@ -1,0 +1,893 @@
+Data Science: R Basics~edx~HarvardX~true~https://www.edx.org/course/data-science-r-basics-harvardx-ph125-1x-0
+Introduction to Python: Absolute Beginner~edx~Microsoft~true~https://www.edx.org/course/introduction-python-absolute-beginner-microsoft-dev236x-1
+Manufacturing Process Control: Variation Modeling and Control~edx~MITx~true~undefined
+Religious Literacy: Traditions and Scriptures~edx~HarvardX~true~https://www.edx.org/course/religious-literacy-traditions-and-scriptures
+Platform Strategy for Business~edx~BUx~true~undefined
+Introduction to Corporate Finance~edx~ColumbiaX~true~https://www.edx.org/course/introduction-to-corporate-finance
+Foundations of Data Science: Computational Thinking with Python~edx~BerkeleyX~true~https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x
+Critical Thinking & Problem Solving~edx~RITx~true~https://www.edx.org/course/critical-thinking-problem-solving-ritx-skills103x
+AWS Developer: Building on AWS~edx~AWS~true~https://www.edx.org/course/aws-developer-building-on-aws
+Project Management for Development~edx~IDBx~true~https://www.edx.org/course/project-management-techniques-for-development-professionals
+The Science of Learning - What Every Teacher Should Know~edx~TeachersCollegeX~true~https://www.edx.org/course/the-science-of-learning-what-every-teacher-should-know
+Just Money: Banking as if Society Mattered~edx~MITx~true~https://www.edx.org/course/just-money-banking-if-society-mattered-mitx-11-405x-1
+Leading Change: Go Beyond Gamification with Gameful Learning~edx~MichiganX~true~https://www.edx.org/course/leading-change-go-beyond-gamification-with-gameful-learning
+Pyramids of Giza: Ancient Egyptian Art and Archaeology~edx~HarvardX~true~https://www.edx.org/course/pyramids-of-giza-ancient-egyptian-art-and-archaeology
+Dynamics and Control~edx~UPValenciaX~true~https://www.edx.org/course/dynamics-and-control
+Teamwork & Collaboration~edx~RITx~true~https://www.edx.org/course/teamwork-collaboration-ritx-skills102x-0
+Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics~edx~HarvardX~true~https://www.edx.org/course/bioethics-law-medicine-ethics-harvardx-hls4x-2
+Software Development Capstone Project~edx~UBCx~true~undefined
+Religious Literacy: Traditions and Scriptures~edx~HarvardX~true~https://www.edx.org/course/religious-literacy-traditions-and-scriptures
+Arab-Islamic History: From Tribes to Empires~edx~IsraelX~true~https://www.edx.org/course/arab-islamic-history-from-tribes-to-empires
+Viruses & How to Beat Them: Cells, Immunity, Vaccines~edx~IsraelX~true~https://www.edx.org/course/viruses-how-to-beat-them-cells-immunity-vaccines
+Principles of Electric Circuits | 电路原理~edx~TsinghuaX~true~https://www.edx.org/course/principles-of-electric-circuits
+Web App Development with the Power of Node.js~edx~TUMx~true~https://www.edx.org/course/web-app-development-with-the-power-of-nodejs
+Video Game Asset Creation and Process~edx~RITx~true~https://www.edx.org/course/video-game-asset-creation-process-ritx-game103x-0
+The Next Generation of Infrastructure~edx~DelftX~true~https://www.edx.org/course/next-generation-infrastructure-delftx-ngix-1
+MalariaX: Defeating Malaria from the Genes to the Globe~edx~HarvardX~true~https://www.edx.org/course/malariax-defeating-malaria-from-the-genes-to-the-globe
+Supply Chain Management: A Decision-Making Framework~edx~LouvainX~true~https://www.edx.org/course/supply-chain-management-a-decision-making-framework
+Creative Problem Solving and Decision Making~edx~DelftX~true~https://www.edx.org/course/creative-problem-solving-and-decision-making
+Entrepreneurship in Emerging Economies~edx~HarvardX~true~https://www.edx.org/course/entrepreneurship-in-emerging-economies
+Social Work Practice with Individuals, Families, and Small Groups~edx~MichiganX~true~undefined
+Research Methods: An Engineering Approach~edx~WitsX~true~https://www.edx.org/course/research-methods-an-engineering-approach
+System Dynamics for Health Sciences~edx~WitsX~true~https://www.edx.org/course/system-dynamics-for-health-sciences
+AWS Developer: Building on AWS~edx~AWS~true~https://www.edx.org/course/aws-developer-building-on-aws
+Sustainable Food Security: Food Access~edx~WageningenX~true~https://www.edx.org/course/sustainable-food-security-food-access
+Sustainable Food Security: Crop Production~edx~WageningenX~true~https://www.edx.org/course/sustainable-food-security-crop-production
+Sustainable Food Security: The value of systems thinking~edx~WageningenX~true~https://www.edx.org/course/sustainable-food-security-the-value-of-systems-thinking
+Anatomy: Gastrointestinal, Reproductive and Endocrine Systems~edx~MichiganX~true~https://www.edx.org/course/anatomy-gastrointestinal-reproductive-michiganx-anatomy403-4x
+Advanced C++~edx~Microsoft~true~https://www.edx.org/course/advanced-c
+The Business of Mining~edx~CurtinX~true~https://www.edx.org/course/the-business-of-mining
+Data Science: Visualization~edx~HarvardX~true~https://www.edx.org/course/data-science-visualization-harvardx-ph125-2x
+Designing Data Platform Solutions~edx~Microsoft~true~https://www.edx.org/course/designing-data-platform-solutions
+Customer Centric Marketing for Entrepreneurs~edx~BabsonX~true~https://www.edx.org/course/customer-centric-marketing-for-entrepreneurs
+The Psychology of Criminal Justice~edx~UQx~true~https://www.edx.org/course/psychology-criminal-justice-uqx-crime101x-4
+Data Science Ethics~edx~MichiganX~true~https://www.edx.org/course/data-science-ethics
+How Virtual Reality Works~edx~UCSanDiegoX~true~https://www.edx.org/course/how-virtual-reality-works
+Inspiring and Motivating Arts and Culture Teams~edx~MichiganX~true~https://www.edx.org/course/inspiring-and-motivating-arts-and-culture-teams
+Introduction to Accounting~edx~UBCx~true~undefined
+CitiesX: The Past, Present and Future of Urban Life~edx~HarvardX~true~https://www.edx.org/course/citiesx-past-present-future-urban-life-harvardx-urban101x
+Sign Language Structure, Learning, and Change~edx~GeorgetownX~true~https://www.edx.org/course/sign-language-structure-learning-change-georgetownx-slsx-401-01x
+Music Technology Foundations~edx~AdelaideX~true~https://www.edx.org/course/music-technology-foundations
+Essential Tools For The Low Carbon Economy~edx~UQx~true~https://www.edx.org/course/essential-tools-for-the-low-carbon-economy
+Islamic Finance and Banking~edx~IRTIx~true~https://www.edx.org/course/islamic-finance-and-banking
+Introduction to Social Psychology~edx~UQx~true~https://www.edx.org/course/introduction-to-social-psychology
+Introduction to Psychological Research Methods~edx~UQx~true~https://www.edx.org/course/introduction-to-psychological-research-methods
+Introduction to Clinical Psychology~edx~UQx~true~https://www.edx.org/course/introduction-to-clinical-psychology
+Animal Breeding and Genetics~edx~WageningenX~true~https://www.edx.org/course/animal-breeding-and-genetics
+IT Fundamentals for Business Professionals: Enterprise systems~edx~UPValenciaX~true~https://www.edx.org/course/it-fundamentals-business-professionals-upvalenciax-isc101-1x
+Introduction to Management Information Systems (MIS): A Survival Guide~edx~UC3Mx~true~https://www.edx.org/course/introduction-to-management-information-systems-mis-a-survival-guide
+Introduction to Developmental Psychology~edx~UQx~true~https://www.edx.org/course/introduction-to-developmental-psychology
+Introduction to DevOps: Transforming and Improving Operations~edx~LinuxFoundationX~true~https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations
+Innovation Leadership~edx~GTx~true~https://www.edx.org/course/innovation-leadership
+Probability: Basic Concepts & Discrete Random Variables~edx~PurdueX~true~https://www.edx.org/course/probability-basic-concepts-discrete-random-variables
+Probability: Distribution Models & Continuous Random Variables~edx~PurdueX~true~https://www.edx.org/course/probability-distribution-models-continuous-random-variables
+Academic and Business Writing~edx~BerkeleyX~true~https://www.edx.org/course/academic-business-writing-uc-berkeleyx-colwri2-2x
+Introduction to Inclusive Talent Acquisition~edx~PerkinsX~true~https://www.edx.org/course/introduction-to-inclusive-talent-acquisition
+IELTS Academic Test Preparation~edx~UQx~true~https://www.edx.org/course/ielts-academic-test-preparation
+Understanding the Australian Health Care System~edx~UQx~true~https://www.edx.org/course/understanding-australian-health-care-uqx-health101x-0
+Sustainable Urban Development: Discover Advanced Metropolitan Solutions~edx~DelftWageningenX~true~https://www.edx.org/course/sustainable-urban-development
+Omnichannel Strategy and Management~edx~DartmouthX~true~https://www.edx.org/course/omnichannel-strategy-and-management
+Retail Fundamentals~edx~DartmouthX~true~https://www.edx.org/course/retail-fundamentals-0
+Unlocking Your Employability~edx~UQx~true~https://www.edx.org/course/unlocking-employability-uqx-employ101x-1
+Using Non-Relational Data in SQL Server~edx~Microsoft~true~https://www.edx.org/course/developing-nosql-solutions-in-sql-server
+Buddhism Through Its Scriptures~edx~HarvardX~true~https://www.edx.org/course/buddhism-through-its-scriptures
+Marketing Analytics: Competitive Analysis and Market Segmentation~edx~BerkeleyX~true~undefined
+Data Structures: An Active Learning Approach~edx~UCSanDiegoX~true~https://www.edx.org/course/data-structures-an-active-learning-approach
+International Human Rights Law~edx~LouvainX~true~undefined
+International Law~edx~LouvainX~true~undefined
+Respiration in the Human Body~edx~LouvainX~true~https://www.edx.org/course/respiration-in-the-human-body
+Communicating Corporate Social Responsibility (CSR)~edx~LouvainX~true~https://www.edx.org/course/communicating-corporate-social-responsibility-csr
+Death 101: Shaping the Future of Global Health~edx~University_of_TorontoX~true~https://www.edx.org/course/death-101-shaping-the-future-of-global-health
+Product Design: The Delft Design Approach~edx~DelftX~true~https://www.edx.org/course/product-design-the-delft-design-approach
+Design in Healthcare: Using Patient Journey Mapping~edx~DelftX~true~https://www.edx.org/course/design-in-healthcare-using-patient-journey-mapping
+Dog Behavior: Problems and Solutions~edx~ASUx~true~https://www.edx.org/course/dog-behavior-problems-and-solutions
+Algorithmic Design and Techniques~edx~UCSanDiegoX~true~undefined
+Strategic Management~edx~IIMBx~true~undefined
+English for Journalists, Part 1~edx~BerkeleyX~true~https://www.edx.org/course/english-for-journalists-part-1
+English for Journalists, Part 2~edx~BerkeleyX~true~https://www.edx.org/course/english-for-journalists-part-2
+The Civil War and Reconstruction - 1850-1861: A House Divided~edx~ColumbiaX~true~https://www.edx.org/course/the-civil-war-and-reconstruction-1850-1861-a-nation-divided
+DNA: Biology’s Genetic Code~edx~RiceX~true~https://www.edx.org/course/dna-biologys-genetic-code
+Nutrition and Health: Food Risks~edx~WageningenX~true~https://www.edx.org/course/nutrition-and-health-food-risks
+Statistics and R~edx~HarvardX~true~https://www.edx.org/course/statistics-r-harvardx-ph525-1x-1
+Introduction to Linear Models and Matrix Algebra~edx~HarvardX~true~https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x-2
+Statistical Inference and Modeling for High-throughput Experiments~edx~HarvardX~true~https://www.edx.org/course/statistical-inference-modeling-high-harvardx-ph525-3x-1
+High-Dimensional Data Analysis~edx~HarvardX~true~https://www.edx.org/course/high-dimensional-data-analysis-harvardx-ph525-4x-1
+Grant Writing and Crowdfunding for Public Libraries~edx~MichiganX~true~https://www.edx.org/course/grant-writing-crowdfunding-public-michiganx-publib607x
+Proteins: Biology's Workforce~edx~RiceX~true~https://www.edx.org/course/proteins-biologys-workforce
+Sustainability Science – A Key Concept for Future Design~edx~UTokyoX~true~https://www.edx.org/course/sustainability-science-key-concept-utokyox-utokyo006x-0
+Becoming an Entrepreneur~edx~MITx~true~https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x-4
+TOEFL® Test Preparation: The Insider’s Guide~edx~ETSx~true~https://www.edx.org/course/toeflr-test-preparation-insiders-guide-etsx-toeflx-4
+Leading Ambitious Teaching and Learning~edx~MichiganX~true~undefined
+Human Rights Defenders~edx~AmnestyInternationalX~true~https://www.edx.org/course/human-rights-defenders
+Linear Algebra - Foundations to Frontiers~edx~UTAustinX~true~https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers
+The Science of Parenting~edx~UCSanDiegoX~true~https://www.edx.org/course/the-science-of-parenting
+Advanced Biorefinery~edx~WageningenX~true~undefined
+Question Everything: Scientific Thinking in Real Life~edx~UQx~true~https://www.edx.org/course/question-everything-scientific-thinking-uqx-query101x-2
+Hypersonics – from Shock Waves to Scramjets~edx~UQx~true~https://www.edx.org/course/hypersonics-shock-waves-scramjets-uqx-hypers301x-3
+Windows Server 2016: Securing Identities and Information~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-securing-identities-and-information
+Introduction to Mobile Application Development using Android~edx~HKUSTx~true~https://www.edx.org/course/introduction-mobile-application-hkustx-comp107x-5
+Introduction to Java Programming – Part 2~edx~HKUSTx~true~https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-6
+Introduction to Java Programming – Part 1~edx~HKUSTx~true~https://www.edx.org/course/introduction-java-programming-part-1-hkustx-comp102-1x-6
+Python for Data Science~edx~UCSanDiegoX~true~undefined
+Evidence-Based Project Management~edx~ANUx~true~undefined
+Energy Within Environmental Constraints~edx~HarvardX~true~https://www.edx.org/course/energy-within-environmental-constraints
+Creating Programmatic SQL Database Objects~edx~Microsoft~true~https://www.edx.org/course/creating-programmatic-sql-database-microsoft-dat215-2x-3
+Optimizing Performance for SQL Based Applications~edx~Microsoft~true~https://www.edx.org/course/optimizing-performance-sql-based-microsoft-dat215-5x-1
+Lifestyle Medicine Core Principles~edx~DoaneX~true~https://www.edx.org/course/lifestyle-medicine-core-principles-doanex-hph-101x
+Chronic Disease Treatment with Lifestyle Medicine~edx~DoaneX~true~https://www.edx.org/course/chronic-disease-treatment-lifestyle-doanex-hph-102x
+Health Coaching for Patient Care~edx~DoaneX~true~https://www.edx.org/course/health-coaching-patient-care-doanex-hph-103x
+Developing SQL Databases~edx~Microsoft~true~https://www.edx.org/course/developing-sql-databases-microsoft-dat215-1x-3
+Implementing In-Memory SQL Database Objects~edx~Microsoft~true~https://www.edx.org/course/implementing-memory-sql-database-objects-microsoft-dat215-4x-3
+Principles of Designing for Humans~edx~MichiganX~true~undefined
+Using Python for Research~edx~HarvardX~true~https://www.edx.org/course/using-python-research-harvardx-ph526x-0
+Essential Mathematics for Artificial Intelligence~edx~Microsoft~true~https://www.edx.org/course/essential-mathematics-for-artificial-intelligence-dat256x
+Business Communication~edx~RITx~true~https://www.edx.org/course/business-communication-ritx-skills101x-0
+A Hands-on Introduction to Engineering Simulations~edx~CornellX~true~https://www.edx.org/course/a-hands-on-introduction-to-engineering-simulations
+Justice~edx~HarvardX~true~https://www.edx.org/course/justice-harvardx-er22-1x-2
+System Center 2016: Building Clouds~edx~Microsoft~true~https://www.edx.org/course/system-center-2016-building-clouds
+Introduction to Programming Using Python~edx~UTArlingtonX~true~https://www.edx.org/course/introduction-to-programming-using-python
+Speech Recognition Systems~edx~Microsoft~true~https://www.edx.org/course/speech-recognition-and-synthesis
+Introduction to Python: Creating Scalable, Robust, Interactive Code~edx~Microsoft~true~https://www.edx.org/course/introduction-to-python-creating-scalable-robust-interactive-code
+Introduction to Discrete Choice Models~edx~EPFLx~true~https://www.edx.org/course/introduction-choice-models-epflx-discretechoicex
+Super-Earths And Life~edx~HarvardX~true~https://www.edx.org/course/super-earths-life-harvardx-spu30x-3
+Unconscious Bias: From Awareness to Action~edx~CatalystX~true~https://www.edx.org/course/unconscious-bias-awareness-action-catalystx-ub1x
+Contract Law: From Trust to Promise to Contract~edx~Harvardx~true~https://www.edx.org/course/contract-law-from-trust-to-promise-to-contract
+Programming Basics~edx~IITBombayX~true~https://www.edx.org/course/programming-basics
+Foundations of Data Structures~edx~IITBombayX~true~https://www.edx.org/course/foundations-of-data-structures
+Object-Oriented Programming~edx~IITBombayX~true~https://www.edx.org/course/object-oriented-programming
+Implementation of Data Structures~edx~IITBombayX~true~https://www.edx.org/course/implementation-of-data-structures
+Algorithms~edx~IITBombayX~true~https://www.edx.org/course/algorithms
+Intellectual Property Law and Policy: Part 2~edx~PennX~true~https://www.edx.org/course/intellectual-property-law-policy-part-2-pennx-iplaw2x-0
+Intellectual Property Law and Policy: Part 1~edx~PennX~true~https://www.edx.org/course/intellectual-property-law-policy-part-1-pennx-iplaw1x-0
+Well and Able - Improving the Physical Health of People with Intellectual Disability~edx~UQx~true~https://www.edx.org/course/well-able-improving-physical-health-uqx-able201x-1
+Through my Eyes – Intellectual Disability Healthcare around the World~edx~UQx~true~https://www.edx.org/course/through-eyes-intellectual-disability-uqx-able101x-1
+Able-Minded - Mental Health and People with Intellectual Disability~edx~UQx~true~https://www.edx.org/course/able-minded-mental-health-people-uqx-able301x-1
+Principles of Biochemistry~edx~HarvardX~true~https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x-1
+Cell Biology: Mitochondria~edx~HarvardX~true~https://www.edx.org/course/cell-biology-mitochondria-harvardx-mcb64-1x-1
+Becoming a Successful Leader (Inclusive Leadership Training)~edx~CatalystX~true~https://www.edx.org/course/becoming-successful-leader-inclusive-catalystx-il2x-1
+Get Beyond Work-Life Balance (Inclusive Leadership Training)~edx~CatalystX~true~https://www.edx.org/course/get-beyond-work-life-balance-inclusive-catalystx-il4x-1
+Leading With Effective Communication (Inclusive Leadership Training)~edx~Catalystx~true~https://www.edx.org/course/leading-effective-communication-catalystx-il5x-1
+Communication Skills for Bridging Divides~edx~CatalystX~true~https://www.edx.org/course/communication-skills-bridging-divides-catalystx-ildiv1x-1
+Agile Software Development~edx~ETHx~true~https://www.edx.org/course/agile-software-development
+Software Engineering: Introduction~edx~UBCx~true~undefined
+Introduction to Java Programming: Fundamental Data Structures and Algorithms~edx~UC3Mx~true~https://www.edx.org/course/introduction-java-programming-uc3mx-it-1-3x
+Creating Virtual Reality (VR) Apps~edx~UCSanDiegoX~true~https://www.edx.org/course/creating-virtual-reality-vr-apps-uc-san-diegox-cse190x
+Religion, Conflict and Peace~edx~HarvardX~true~https://www.edx.org/course/religion-conflict-peace-harvardx-hds2825x
+Economic Democracy: The Cooperative Alternative~edx~EdinburghX~true~https://www.edx.org/course/economic-democracy-cooperative-edinburghx-coopsx-0
+Information and Communication Technology (ICT) Accessibility~edx~GTx~true~https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x-0
+Accounting for Decision-Making~edx~IIMBx~true~undefined
+CS50's Understanding Technology~edx~HarvardX~true~https://www.edx.org/course/cs50s-understanding-technology
+CS50's Computer Science for Business Professionals~edx~HarvardX~true~https://www.edx.org/course/cs50s-computer-science-for-business-professionals
+Introduction to Data Modeling~edx~Microsoft~true~https://www.edx.org/course/introduction-data-modeling-microsoft-dat251x
+Science & Cooking: From Haute Cuisine to Soft Matter Science (physics)~edx~HarvardX~true~https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-part-2
+Medicinal Chemistry: The Molecular Basis of Drug Discovery~edx~DavidsonX~true~https://www.edx.org/course/medicinal-chemistry-molecular-basis-drug-davidsonx-d001x-4
+Introduction to Marketing~edx~UBCx~true~undefined
+Video Game Design and Balance~edx~RITx~true~https://www.edx.org/course/video-game-design-balance-ritx-game102x-0
+MVC Application Design using .NET Core 2.0~edx~Microsoft~true~https://www.edx.org/course/design-and-mvc-application
+Developing Business Applications with Power Apps and Microsoft Flow~edx~Microsoft~true~https://www.edx.org/course/developing-business-applications-with-power-apps-and-microsoft-flow
+Asynchronous Programming with Javascript~edx~Microsoft~true~https://www.edx.org/course/asynchronous-programming-with-javascript
+Introduction to C++~edx~Microsoft~true~https://www.edx.org/course/introduction-c-microsoft-dev210x-6
+Build Web APIs using ASP.NET~edx~Microsoft~true~https://www.edx.org/course/build-web-apis-using-asp-net-microsoft-dev247x-0
+Getting Started with Azure App Service: Web Apps~edx~Microsoft~true~https://www.edx.org/course/getting-started-azure-app-service-web-microsoft-dev223x-1
+Developing Data Client Applications and Services~edx~Microsoft~true~https://www.edx.org/course/developing-data-client-applications-microsoft-dev256x-1
+Introduction to ReactJS~edx~Microsoft~true~https://www.edx.org/course/introduction-to-reactjs
+Managing Identity~edx~Microsoft~true~https://www.edx.org/course/managing-identity-microsoft-inf253x-1
+Windows 10 Features for a Mobile Workforce: Windows and Devices in the Enterprise~edx~Microsoft~true~https://www.edx.org/course/windows-10-features-for-a-mobile-workforce-windows-and-devices-in-the-enterprise
+Windows 10 Features for a Mobile Workforce: Configuring Additional Resources~edx~Microsoft~true~https://www.edx.org/course/windows-10-features-for-a-mobile-workforce-configuring-additional-resources
+Planning & Developing Governance for Digital Transformation~edx~Microsoft~true~https://www.edx.org/course/planning-developing-governance-for-digital-transformation
+Office 365: SharePoint Online Administrator~edx~Microsoft~true~https://www.edx.org/course/sharepoint-online-administrator
+Selecting Collaborative Technology Tools~edx~Microsoft~true~https://www.edx.org/course/selecting-collaboration-tools
+Transitioning to Microsoft Exchange Server 2016~edx~Microsoft~true~https://www.edx.org/course/transitioning-microsoft-exchange-server-microsoft-cld209-2x-3
+Compliance in Office 365: eDiscovery~edx~Microsoft~true~https://www.edx.org/course/compliance-office-365-ediscovery-microsoft-cld204x-3
+Compliance in Office 365​®: Data Governance~edx~Microsoft~true~https://www.edx.org/course/compliance-office-365-r-data-governance-microsoft-cld206x-2
+Microsoft SharePoint 2016: Infrastructure~edx~Microsoft~true~https://www.edx.org/course/microsoft-sharepoint-2016-infrastructure-microsoft-cld211-1x-3
+Microsoft Exchange Server 2016 - 1: Infrastructure~edx~Microsoft~true~https://www.edx.org/course/microsoft-exchange-server-2016-1-microsoft-cld208-1x-5
+Microsoft SharePoint 2016: Authentication and Security~edx~Microsoft~true~https://www.edx.org/course/microsoft-sharepoint-2016-authentication-microsoft-cld211-2x-3
+Managing Projects & Portfolios with Microsoft PPM~edx~Microsoft~true~https://www.edx.org/course/managing-projects-portfolios-microsoft-microsoft-cld215x-3
+Microsoft Exchange Server 2016 - 2: Client Access Services~edx~Microsoft~true~https://www.edx.org/course/microsoft-exchange-server-2016-2-client-microsoft-cld208-2x-4
+Provisioning Office 365 Services~edx~Microsoft~true~https://www.edx.org/course/provisioning-office-365-services-microsoft-cld220x-3
+Microsoft SharePoint 2016: Productivity Solutions~edx~Microsoft~true~https://www.edx.org/course/microsoft-sharepoint-2016-productivity-microsoft-cld211-4x-3
+Microsoft Exchange Server 2016 - 3: Mailbox Databases~edx~Microsoft~true~https://www.edx.org/course/microsoft-exchange-server-2016-3-mailbox-microsoft-cld208-3x-5
+Enabling Office 365 Clients~edx~Microsoft~true~https://www.edx.org/course/enabling-office-365-clients-microsoft-cld221x-3
+Microsoft SharePoint 2016: Search and Content Management~edx~Microsoft~true~https://www.edx.org/course/microsoft-sharepoint-2016-search-content-microsoft-cld211-5x-3
+Microsoft Exchange Server 2016 - 4: Transport Services~edx~Microsoft~true~https://www.edx.org/course/microsoft-exchange-server-2016-4-microsoft-cld208-4x-5
+Managing Microsoft Exchange Online in Office 365~edx~Microsoft~true~https://www.edx.org/course/managing-microsoft-exchange-online-microsoft-cld222x-3
+Microsoft Exchange Server 2016 - 5: Hybrid Topologies with Office 365~edx~Microsoft~true~https://www.edx.org/course/microsoft-exchange-server-2016-5-hybrid-microsoft-cld209-1x-4
+Planning and Preparing SharePoint Hybrid~edx~Microsoft~true~https://www.edx.org/course/planning-preparing-sharepoint-hybrid-microsoft-cld212-1x-2
+Onboarding Messaging to Office 365~edx~Microsoft~true~https://www.edx.org/course/onboarding-messaging-office-365-microsoft-cld223x-3
+Managing Projects with Microsoft Project~edx~Microsoft~true~https://www.edx.org/course/managing-projects-microsoft-project-microsoft-cld213x-3
+Organizing Evangelism and Achieving User Adoption~edx~Microsoft~true~https://www.edx.org/course/organizing-evangelism-achieving-user-microsoft-cld226x-1
+SharePoint Enterprise Content Management~edx~Microsoft~true~https://www.edx.org/course/sharepoint-enterprise-content-management-microsoft-cld214x-0
+Skype for Business: Infrastructure Planning and Design~edx~Microsoft~true~https://www.edx.org/course/skype-business-infrastructure-planning-microsoft-cld230x-2
+Querying Data with Transact-SQL~edx~Microsoft~true~https://www.edx.org/course/querying-data-transact-sql-microsoft-dat201x-0
+Processing Big Data with Hadoop in Azure HDInsight~edx~Microsoft~true~https://www.edx.org/course/processing-big-data-hadoop-azure-microsoft-dat202-1x-4
+Implementing Real-Time Analytics with Hadoop in Azure HDInsight~edx~Microsoft~true~https://www.edx.org/course/implementing-real-time-analytics-hadoop-microsoft-dat202-2x-4
+Analyzing Big Data with Microsoft R~edx~Microsoft~true~https://www.edx.org/course/analyzing-big-data-microsoft-r-microsoft-dat213x-0
+Analyzing and Visualizing Data with Excel~edx~Microsoft~true~https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-8
+Analyzing and Visualizing Data with Power BI~edx~Microsoft~true~https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-8
+Introduction to NoSQL Data Solutions~edx~Microsoft~true~https://www.edx.org/course/introduction-nosql-data-solutions-microsoft-dat221x-0
+Processing Big Data with Azure Data Lake Analytics~edx~Microsoft~true~https://www.edx.org/course/processing-big-data-azure-data-lake-microsoft-dat223-1x-3
+Skype for Business: Infrastructure Advanced Configuration~edx~Microsoft~true~https://www.edx.org/course/skype-business-infrastructure-advanced-microsoft-cld232x-2
+Skype for Business: Infrastructure Implementation and Conferencing~edx~Microsoft~true~https://www.edx.org/course/skype-business-infrastructure-microsoft-cld231x-2
+Skype for Business: Voice Concepts and Planning~edx~Microsoft~true~https://www.edx.org/course/skype-business-voice-concepts-planning-microsoft-cld233x-2
+Skype for Business: Voice Hybrid and Routing~edx~Microsoft~true~https://www.edx.org/course/skype-business-voice-hybrid-routing-microsoft-cld234x-2
+Skype for Business: Voice Advanced Workloads~edx~Microsoft~true~https://www.edx.org/course/skype-business-voice-advanced-workloads-microsoft-cld235x-2
+Troubleshooting Skype for Business~edx~Microsoft~true~https://www.edx.org/course/troubleshooting-skype-business-microsoft-cld236x-1
+Principles of Machine Learning~edx~Microsoft~true~https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6
+Applied Machine Learning~edx~Microsoft~true~https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x-4
+Creating BI Reports with SQL Server Reporting Services~edx~Microsoft~true~https://www.edx.org/course/creating-bi-reports-sql-server-reporting-microsoft-dat214x
+Provisioning Databases in Azure and SQL Server~edx~Microsoft~true~https://www.edx.org/course/provisioning-databases-azure-sql-server-microsoft-dat219x-2
+Programming with R for Data Science~edx~Microsoft~true~https://www.edx.org/course/programming-r-data-science-microsoft-dat209x-6
+Introduction to Data Analysis using Excel~edx~Microsoft~true~https://www.edx.org/course/introduction-data-analysis-using-excel-microsoft-dat205x-3
+Essential Statistics for Data Analysis using Excel~edx~Microsoft~true~https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-2
+Deep Learning Explained~edx~Microsoft~true~https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-1
+Programming with Python for Data Science~edx~Microsoft~true~https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-6
+Processing Real-Time Data Streams in Azure~edx~Microsoft~true~https://www.edx.org/course/processing-real-time-data-streams-azure-microsoft-dat223-2x-3
+Securing Data in Azure and SQL Server~edx~Microsoft~true~https://www.edx.org/course/securing-data-azure-sql-server-microsoft-dat243x-1
+Orchestrating Big Data with Azure Data Factory~edx~Microsoft~true~https://www.edx.org/course/orchestrating-big-data-azure-data-microsoft-dat223-3x-3
+Recovering Data in Azure and SQL Server~edx~Microsoft~true~https://www.edx.org/course/recovering-data-azure-sql-server-microsoft-dat244x-1
+Introduction to C#~edx~Microsoft~true~https://www.edx.org/course/introduction-c-microsoft-dev204-1x-1
+Delivering a Relational Data Warehouse~edx~Microsoft~true~https://www.edx.org/course/delivering-relational-data-warehouse-microsoft-dat216x-5
+Creating a Master Data Solution with SQL Server Master Data Services (MDS)~edx~Microsoft~true~https://www.edx.org/course/creating-master-data-solution-sql-server-microsoft-dat226x-1
+Managing SQL Server Operations~edx~Microsoft~true~https://www.edx.org/course/managing-sql-server-operations-microsoft-dat247x-1
+Object Oriented Programming in C#~edx~Microsoft~true~https://www.edx.org/course/object-oriented-programming-c-microsoft-dev204-2x-0
+Introduction to HTML and JavaScript~edx~Microsoft~true~https://www.edx.org/course/introduction-html-javascript-microsoft-dev211-1x-3
+Ethics and Law in Data and Analytics~edx~Microsoft~true~https://www.edx.org/course/ethics-law-analytics-ai-microsoft-dat249x-0
+Data Cleansing with Data Quality Services (DQS)~edx~Microsoft~true~https://www.edx.org/course/data-cleansing-data-quality-services-dqs-microsoft-dat218x-3
+Introduction to Artificial Intelligence (AI)~edx~Microsoft~true~https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0
+Algorithms and Data Structures in C#~edx~Microsoft~true~https://www.edx.org/course/algorithms-data-structures-c-microsoft-dev204-3x-0
+DevOps for Developers: How to Get Started~edx~Microsoft~true~https://www.edx.org/course/introduction-devops-microsoft-dev212x-4
+Developing Big Data Solutions with Azure Machine Learning~edx~Microsoft~true~https://www.edx.org/course/developing-big-data-solutions-azure-microsoft-dat228x-1
+Introduction to jQuery~edx~Microsoft~true~https://www.edx.org/course/introduction-jquery-microsoft-dev208x-4
+Introduction to Bootstrap – A Tutorial~edx~Microsoft~true~https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-4
+Introduction to Python: Absolute Beginner~edx~Microsoft~true~https://www.edx.org/course/introduction-python-absolute-beginner-microsoft-dev236x-1
+Advanced CSS Concepts~edx~Microsoft~true~https://www.edx.org/course/advanced-css-concepts-microsoft-dev218x-2
+AngularJS: Framework Fundamentals~edx~Microsoft~true~https://www.edx.org/course/angularjs-framework-fundamentals-microsoft-dev220x-2
+AngularJS: Advanced Framework Techniques~edx~Microsoft~true~https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-2
+Introduction to Design Thinking~edx~Microsoft~true~https://www.edx.org/course/introduction-design-thinking-microsoft-dev241x-1
+Using Open Source Web Tooling to Improve Development Proficiency~edx~Microsoft~true~https://www.edx.org/course/using-open-source-web-tooling-improve-microsoft-dev222x-2
+Introduction to TypeScript 2~edx~Microsoft~true~https://www.edx.org/course/introduction-typescript-2-microsoft-dev273x-1
+Microsoft Azure App Service~edx~Microsoft~true~https://www.edx.org/course/microsoft-azure-app-service-microsoft-azure206x-0
+Databases in Azure~edx~Microsoft~true~https://www.edx.org/course/databases-azure-microsoft-azure207x-0
+Azure Security and Compliance~edx~Microsoft~true~https://www.edx.org/course/azure-security-compliance-microsoft-azure208x-0
+Automating Azure Workloads~edx~Microsoft~true~https://www.edx.org/course/automating-azure-workloads-microsoft-azure210x-0
+Migrating Workloads to Azure~edx~Microsoft~true~https://www.edx.org/course/migrating-workloads-azure-microsoft-azure212x-0
+Microsoft Professional Orientation: Cloud Administration~edx~Microsoft~true~https://www.edx.org/course/microsoft-professional-orientation-cloud-microsoft-azure215x-0
+Logic and Computational Thinking~edx~Microsoft~true~https://www.edx.org/course/logic-computational-thinking-microsoft-dev262x-1
+Continuous Integration and Continuous Deployment~edx~Microsoft~true~https://www.edx.org/course/continuous-integration-continuous-microsoft-devops200-3x-0
+Introduction to Python: Fundamentals~edx~Microsoft~true~https://www.edx.org/course/introduction-python-fundamentals-microsoft-dev274x-1
+Writing Professional Code~edx~Microsoft~true~https://www.edx.org/course/writing-professional-code-microsoft-dev275x-1
+Learn to Program in Java~edx~Microsoft~true~https://www.edx.org/course/learn-program-java-microsoft-dev276x-1
+Object Oriented Programming in Java~edx~Microsoft~true~https://www.edx.org/course/object-oriented-programming-java-microsoft-dev277x-1
+Building Interactive Prototypes using JavaScript~edx~Microsoft~true~https://www.edx.org/course/building-interactive-prototypes-using-microsoft-dev279x-1
+Building Functional Prototypes using Node.js~edx~Microsoft~true~https://www.edx.org/course/building-functional-prototypes-using-microsoft-dev280x-1
+Designing a Technical Solution~edx~Microsoft~true~https://www.edx.org/course/designing-technical-solution-microsoft-dev284x-1
+Algorithms and Data Structures~edx~Microsoft~true~https://www.edx.org/course/algorithms-data-structures-microsoft-dev285x-1
+Windows PowerShell Basics~edx~Microsoft~true~https://www.edx.org/course/windows-powershell-basics-microsoft-inf210x-2
+Windows Server 2016: Directory Services~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-directory-services-microsoft-inf212x-1
+Windows Server 2016: Basic Storage~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-basic-storage-microsoft-inf213x-1
+Windows Server 2016: Basic Networking~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-basic-networking-microsoft-inf214x-1
+Windows Server 2016: Virtualization~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-virtualization-microsoft-inf215x-1
+Windows Server 2016: Advanced Storage~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-advanced-storage-microsoft-inf217x-1
+Windows Server 2016: Advanced Virtualization~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-advanced-microsoft-inf219x-0
+Microsoft SharePoint Online for Site Administrators~edx~Microsoft~true~https://www.edx.org/course/microsoft-sharepoint-online-site-microsoft-cld216x-1
+Developing a Multidimensional Data Model~edx~Microsoft~true~https://www.edx.org/course/developing-multidimensional-data-model-microsoft-dat224x-1
+Intermediate C++~edx~Microsoft~true~https://www.edx.org/course/intermediate-c-microsoft-dev210-2x-0
+Windows Server 2016: Advanced Networking~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-advanced-networking-microsoft-inf218x-0
+Introduction to Big Data~edx~Microsoft~true~https://www.edx.org/course/introduction-big-data-microsoft-dat229x
+Windows Server 2016: Azure for On-Premises Administrators~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-azure-premises-microsoft-inf216x-1
+Windows Support Essentials: Installation~edx~Microsoft~true~https://www.edx.org/course/windows-support-essentials-installation-microsoft-cld255x
+Windows Support Essentials: Maintenance~edx~Microsoft~true~https://www.edx.org/course/windows-support-essentials-maintenance-microsoft-cld256x
+Windows Support Essentials: Configuration~edx~Microsoft~true~https://www.edx.org/course/windows-support-essentials-configuration-microsoft-cld257x
+IT Support: Fundamentals~edx~Microsoft~true~https://www.edx.org/course/it-support-fundamentals-microsoft-cld251x
+IT Support: Communication~edx~Microsoft~true~https://www.edx.org/course/it-support-communication-microsoft-cld252x
+IT Support: Troubleshooting~edx~Microsoft~true~https://www.edx.org/course/it-support-troubleshooting-microsoft-cld253x
+IT Support: Documentation~edx~Microsoft~true~https://www.edx.org/course/it-support-documentation-microsoft-cld254x
+IT Support: Hardware Essentials~edx~Microsoft~true~https://www.edx.org/course/it-support-hardware-essentials
+IT Support: Troubleshooting Microsoft Office~edx~Microsoft~true~https://www.edx.org/course/it-support-troubleshooting-microsoft-office
+Introduction to Device Programming~edx~Microsoft~true~https://www.edx.org/course/introduction-to-device-programming
+Microsoft SharePoint 2016: Workload Optimization~edx~Microsoft~true~https://www.edx.org/course/microsoft-sharepoint-2016-workload-microsoft-cld211-3x-3
+Configuring SharePoint Hybrid~edx~Microsoft~true~https://www.edx.org/course/configuring-sharepoint-hybrid-microsoft-cld212-2x-0
+Understanding the Collaborators~edx~Microsoft~true~https://www.edx.org/course/understanding-collaborators-microsoft-cld224x-3
+Implementing Predictive Analytics with Spark in Azure HDInsight~edx~Microsoft~true~https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-3
+Delivering a Data Warehouse in the Cloud~edx~Microsoft~true~https://www.edx.org/course/delivering-data-warehouse-cloud-microsoft-dat220x-2
+Introduction to Data Science~edx~Microsoft~true~https://www.edx.org/course/microsoft-professional-orientation-data-microsoft-dat101x-0
+Introduction to Python for Data Science~edx~Microsoft~true~https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-8
+Introduction to R for Data Science~edx~Microsoft~true~https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-7
+Developing Planet-Scale Applications in Azure Cosmos DB~edx~Microsoft~true~https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x-0
+Developing a Tabular Data Model~edx~Microsoft~true~https://www.edx.org/course/sql-server-analysis-services-developing-microsoft-dat225x-1
+Implementing ETL with SQL Server Integration Services~edx~Microsoft~true~https://www.edx.org/course/implementing-etl-sql-server-integration-microsoft-dat217x-5
+Developing Dynamic Web Applications Using Angular~edx~Microsoft~true~https://www.edx.org/course/developing-dynamic-web-applications-microsoft-dev216x-1
+Microsoft Professional Orientation : Front End Web Development~edx~Microsoft~true~https://www.edx.org/course/front-end-web-development-orientation-microsoft-dev237x-1
+Building Your Azure Skills Toolkit~edx~Microsoft~true~https://www.edx.org/course/building-azure-skills-toolkit-microsoft-dev224x-0
+Developing IoT Solutions with Azure IoT~edx~Microsoft~true~https://www.edx.org/course/developing-iot-solutions-azure-iot-microsoft-dev225x-1
+Microsoft Azure Virtual Machines~edx~Microsoft~true~https://www.edx.org/course/microsoft-azure-virtual-machines-microsoft-azure202x-1
+Microsoft Azure Storage~edx~Microsoft~true~https://www.edx.org/course/microsoft-azure-storage-microsoft-azure205x-0
+Microsoft Azure Virtual Networks~edx~Microsoft~true~https://www.edx.org/course/microsoft-azure-virtual-networks-microsoft-azure203x-0
+Microsoft Azure Identity~edx~Microsoft~true~https://www.edx.org/course/microsoft-azure-identity-microsoft-azure204x-1
+Configuration Management for Containerized Delivery~edx~Microsoft~true~https://www.edx.org/course/configuration-management-containerized-microsoft-devops200-4x-0
+DevOps Testing~edx~Microsoft~true~https://www.edx.org/course/devops-testing-microsoft-devops200-5x-0
+DevOps for Databases~edx~Microsoft~true~https://www.edx.org/course/devops-databases-microsoft-devops200-6x-0
+Application Monitoring and Feedback Loops~edx~Microsoft~true~https://www.edx.org/course/application-monitoring-feedback-loops-microsoft-devops200-7x-0
+Architecting Distributed Cloud Applications~edx~Microsoft~true~https://www.edx.org/course/architecting-distributed-cloud-microsoft-devops200-9x-1
+DevOps Practices and Principles~edx~Microsoft~true~https://www.edx.org/course/introduction-devops-practices-microsoft-devops200-1x-0
+Infrastructure as Code~edx~Microsoft~true~https://www.edx.org/course/infrastructure-code-microsoft-devops200-2x-0
+Windows 10 Features for a Mobile Workforce: Identity Management and Data Access~edx~Microsoft~true~https://www.edx.org/course/windows-10-features-mobile-workforce-microsoft-inf203x-4
+Windows 10 Security Features~edx~Microsoft~true~https://www.edx.org/course/windows-10-security-features-microsoft-inf258x-0
+Windows Server 2016: Infrastructure~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-infrastructure-microsoft-inf211x-1
+Security in Office 365~edx~Microsoft~true~https://www.edx.org/course/security-office-365-microsoft-cld245x-0
+Plasma Physics: Applications~edx~EPFLx~true~https://www.edx.org/course/plasma-physics-applications-epflx-plasmaapplicationx-0
+Plasma Physics: Introduction~edx~EPFLx~true~https://www.edx.org/course/plasma-physics-introduction
+Asynchronous Programming in C# and .NET Core~edx~Microsoft~true~https://www.edx.org/course/asynchronous-programming-c-net-core-microsoft-dev235x
+Data Access in C# and .NET Core~edx~Microsoft~true~https://www.edx.org/course/data-access-c-net-core-microsoft-dev258x
+IT Support: Networking Essentials~edx~Microsoft~true~https://www.edx.org/course/it-support-networking-essentials-microsoft-cld260x
+IT Support: Cloud Fundamentals~edx~Microsoft~true~https://www.edx.org/course/it-support-cloud-fundamentals-microsoft-cld263x
+HTML5 and CSS Fundamentals~edx~W3Cx~true~https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x-0
+Writing, Presenting and Submitting Scientific Papers in English | 英文科技论文写作与学术报告~edx~TsinghuaX~true~https://www.edx.org/course/writing-presenting-submitting-scientific-tsinghuax-60250101-0
+Plato, Socrates, and the Birth of Western Philosophy | 西方哲学精神探源~edx~TsinghuaX~true~https://www.edx.org/course/an-exploration-to-the-original-spirit-of-western-philosophy
+Social Work Practice: Advocating Social Justice and Change~edx~MichiganX~true~undefined
+IT Support: Troubleshooting Windows~edx~Microsoft~true~https://www.edx.org/course/it-support-troubleshooting-windows-microsoft-cld258x
+Enabling Data Source Discovery with Azure Data Catalog~edx~Microsoft~true~https://www.edx.org/course/enabling-data-source-discovery-azure-microsoft-dat238x
+Strategic Planning for Public Libraries~edx~MichiganX~true~https://www.edx.org/course/strategic-planning-public-libraries-michiganx-publib606
+Mandarin Chinese: First Steps in Chinese~edx~MandarinX~true~https://www.edx.org/course/mandarin-chinese-first-steps-in-chinese
+The Extremes of Life: Microbes and Their Diversity~edx~KyotoUx~true~https://www.edx.org/course/extremes-life-microbes-diversity-kyotoux-003x-1
+Ethics in Life Sciences and Healthcare: Exploring Bioethics through Manga~edx~KyotoUx~true~https://www.edx.org/course/ethics-life-sciences-healthcare-kyotoux-006x-1
+Design Practice in Business~edx~DelftX~true~https://www.edx.org/course/design-practice-business-delftx-dpb001x-2
+Introduction to Animal Behaviour~edx~WageningenX~true~https://www.edx.org/course/introduction-animal-behaviour-wageningenx-ab101x-2
+The Science of Everyday Thinking~edx~UQx~true~https://www.edx.org/course/science-everyday-thinking-uqx-think101x-5
+Quantitative Biology Workshop~edx~MITx~true~https://www.edx.org/course/quantitative-biology-workshop-mitx-7-qbwx-3
+Microsoft Office Fundamentals: Outlook, Word, and Excel~edx~Microsoft~true~https://www.edx.org/course/microsoft-office-fundamentals-outlook-microsoft-cld261x
+Introduction to Simulation Education in Healthcare~edx~UTennesseeX~true~https://www.edx.org/course/introduction-simulation-education-utennesseex-iseh2016x-0
+User Interface (UI) Personalization~edx~GTx~true~https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax
+Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots~edx~HarvardX~true~https://www.edx.org/course/stravinskys-rite-spring-modernism-ballet-harvardx-mus24-5x
+Economics: Consumer Demand~edx~BabsonX~true~https://www.edx.org/course/economics-consumer-demand-0
+Biobased Sciences for Sustainability Capstone~edx~WageningenX~true~undefined
+Natural Language Processing (NLP)~edx~Microsoft~true~https://www.edx.org/course/natural-language-processing-nlp-microsoft-dev288x
+Data Science: R Basics~edx~HarvardX~true~https://www.edx.org/course/data-science-r-basics-harvardx-ph125-1x-0
+Tsunamis and Storm Surges: Introduction to Coastal Disasters~edx~WasedaX~true~https://www.edx.org/course/tsunamis-storm-surges-introduction-wasedax-cosdis101x-0
+Marketing Analytics: Price and Promotion Analytics~edx~BerkeleyX~true~undefined
+Big Data Analytics~edx~AdelaideX~true~undefined
+Big Data Capstone Project~edx~AdelaideX~true~undefined
+Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching~edx~HarvardX~true~https://www.edx.org/course/introduction-data-wise-collaborative-harvardx-gse3x-1
+First Nights - Berlioz’s Symphonie Fantastique and Program Music in the 19th Century~edx~HarvardX~true~https://www.edx.org/course/first-nights-berliozs-symphonie-harvardx-mus24-4x-0
+Pre-University Calculus~edx~DelftX~true~https://www.edx.org/course/pre-university-calculus-delftx-calc001x-2
+Sustainable Soil Management: Soil for life~edx~WageningenX~true~https://www.edx.org/course/sustainable-soil-management-soil-life-wageningenx-soilx-1
+Social Work: Research~edx~MichiganX~true~undefined
+Infrastructure Management for Public Libraries~edx~MichiganX~true~https://www.edx.org/course/infrastructure-management-public-michiganx-publib605
+First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra~edx~HarvardX~true~https://www.edx.org/course/first-nights-beethovens-9th-harvardx-mus24-3x
+Introduction to Node.js~edx~Microsoft~true~https://www.edx.org/course/introduction-node-js-microsoft-dev283x
+Introduction to Oil Country Tubular Goods (OCTG)~edx~TenarisUniversity~true~https://www.edx.org/course/introduction-oil-country-tubular-goods-tenarisuniversity-pipe01x-1
+Introduction to Running Pipe in Oil and Gas Wells~edx~TenarisUniversity~true~https://www.edx.org/course/introduction-running-pipe-oil-gas-wells-tenarisuniversity-pipe02x-1
+Corporate Social Responsibility (CSR): A Strategic Approach~edx~PennX~true~https://www.edx.org/course/corporate-social-responsibility-csr-pennx-sp2pennx
+Framing: How Politicians Debate~edx~DelftX~true~https://www.edx.org/course/framing-how-politicians-debate-delftx-frame101x-1
+Leadership for Engineers~edx~DelftX~true~https://www.edx.org/course/leadership-engineers-delftx-lfe101x-2
+System Center 2016: Building a Datacenter Fabric~edx~Microsoft~true~https://www.edx.org/course/system-center-2016-building-datacenter-microsoft-inf262x
+Capital Markets and Key Participants~edx~NYIF~true~https://www.edx.org/course/capital-markets-key-participants-new-york-institute-finance-cm1-x
+Global Business in Practice~edx~GeorgetownX~true~https://www.edx.org/course/global-business-practice-georgetownx-gbex-650-01x-0
+Biobased Processes & Implementation~edx~WageningenX~true~undefined
+Business Communications~edx~UBCx~true~undefined
+Solar Energy: Photovoltaic (PV) Energy Conversion~edx~DelftX~true~undefined
+First Nights - Handel's Messiah and Baroque Oratorio~edx~HarvardX~true~https://www.edx.org/course/first-nights-messiah-harvardx-mus24-2x
+The Basics of Transport Phenomena~edx~DelftX~true~https://www.edx.org/course/basics-transport-phenomena-delftx-tp101x-2
+Evolution of the Human Sociality: A Quest for the Origin of Our Social Behavior~edx~KyotoUx~true~https://www.edx.org/course/evolution-human-sociality-quest-origin-kyotoux-000x-0
+Evidence-Based Technology Management~edx~ANUx~true~undefined
+Reinvent Yourself: Unleash Your Creativity~edx~UTHealthSPHx~true~https://www.edx.org/course/reinvent-yourself-unleash-creativity-uthealthsphx-imagine99x-3
+UX (User Experience) Capstone~edx~MichiganX~true~undefined
+Introduction to Java Programming: Writing Good Code~edx~UC3Mx~true~https://www.edx.org/course/introduction-java-programming-writing-uc3mx-it-1-2x
+Tourism and Travel Management~edx~UQx~true~https://www.edx.org/course/tourism-travel-management-uqx-tourismx
+The Climate-Energy Challenge~edx~HarvardX~true~https://www.edx.org/course/climate-energy-challenge-harvardx-spu29x
+Simulation Neuroscience~edx~EPFLx~true~https://www.edx.org/course/simulation-neuroscience-epflx-simneurox
+Modern Masterpieces of World Literature~edx~HarvardX~true~https://www.edx.org/course/modern-masterpieces-world-literature-harvardx-hum12-2x
+Ancient Masterpieces of World Literature~edx~HarvardX~true~https://www.edx.org/course/ancient-masterpieces-world-literature-harvardx-hum12-1x
+Finding your Cybersecurity Career Path~edx~UWashingtonX~true~https://www.edx.org/course/finding-cybersecurity-career-path-uwashingtonx-cyb004x
+Anatomy: Human Neuroanatomy~edx~MichiganX~true~https://www.edx.org/course/anatomy-human-neuroanatomy-michiganx-anatomy403-3x
+Video Game Design History~edx~RITx~true~https://www.edx.org/course/video-game-design-history-ritx-game101x-0
+Humanitarian Response to Conflict and Disaster~edx~HarvardX~true~https://www.edx.org/course/humanitarian-response-conflict-disaster-harvardx-ph558x-0
+Operations Management~edx~IIMBx~true~undefined
+Blockchain for Business - An Introduction to Hyperledger Technologies~edx~LinuxFoundationX~true~https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x
+Big Data Fundamentals~edx~AdelaideX~true~undefined
+Circular Economy~edx~WageningenX~true~undefined
+Language Revival: Securing the Future of Endangered Languages~edx~AdelaideX~true~https://www.edx.org/course/language-revival-securing-future-adelaidex-lang101x-1
+Android Developer Capstone Project: Building a Successful Android App~edx~GalileoX~true~undefined
+Introduction to Computational Thinking and Data Science~edx~MITx~true~https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6
+Electricity & Magnetism, Part 1~edx~RiceX~true~https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-1
+High Performance Finite Element Modeling~edx~KTHx~true~https://www.edx.org/course/high-performance-finite-element-modeling-kthx-hpfem01-1x
+Introduction to Genomic Data Science~edx~UCSanDiegoX~true~https://www.edx.org/course/introduction-genomic-data-science-uc-san-diegox-cse181-1x
+Software Construction: Object-Oriented Design~edx~UBCx~true~undefined
+International Humanitarian Law~edx~LouvainX~true~undefined
+Introduction to Electrical and Electronic Engineering - 電気電子工学入門~edx~TokyoTechX~true~https://www.edx.org/course/introduction-electrical-electronic-tokyotechx-ee101jx-0
+Introduction to User Experience~edx~MichiganX~true~undefined
+Robotics: Locomotion Engineering~edx~PennX~true~undefined
+Marketing Analytics: Marketing Measurement Strategy~edx~BerkeleyX~true~undefined
+Introduction to Marketing: Tools to Set Enterprises Apart~edx~EdinburghX~true~https://www.edx.org/course/introduction-marketing-tools-set-edinburghx-mktg101x-0
+HTML5 Apps and Games~edx~W3Cx~true~https://www.edx.org/course/html5-apps-games-w3cx-html5-2x
+JavaScript Introduction~edx~W3Cx~true~https://www.edx.org/course/javascript-introduction-w3cx-js-0x-0
+Existential Well-being Counseling: A Person-centered Experiential Approach~edx~KULeuvenX~true~https://www.edx.org/course/existential-well-being-counseling-person-kuleuvenx-ewbcx-0
+Data Analysis: Take It to the MAX()~edx~DelftX~true~https://www.edx.org/course/data-analysis-take-it-max-delftx-ex101x-2
+Data Analysis: Visualization and Dashboard Design~edx~DelftX~true~https://www.edx.org/course/data-analysis-visualization-dashboard-delftx-ex102x-2
+UX Research at Scale: Analytics and Online Experiments~edx~MichiganX~true~undefined
+Biobased Principles and Opportunities~edx~WageningenX~true~undefined
+Business Foundations~edx~UBCx~true~undefined
+Introduction to Java Programming: Starting to code in Java~edx~UC3Mx~true~https://www.edx.org/course/introduction-java-programming-starting-uc3mx-3t2017
+Causal Diagrams: Draw Your Assumptions Before Your Conclusions~edx~HarvardX~true~https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x
+Introduction to Mechanics, Part 1~edx~RICEx~true~https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x
+StudioX: Creating a Course with edX Studio~edx~edX~true~https://www.edx.org/course/studiox-creating-course-edx-studio-edx-studiox
+Culture of Services: New Perspective on Customer Relations~edx~KyotoUx~true~https://www.edx.org/course/culture-services-new-perspective-kyotoux-002x-2
+Evidence-Based Global Management~edx~ANUx~true~undefined
+Understanding Classroom Interaction~edx~PennX~true~https://www.edx.org/course/understanding-classroom-interaction-pennx-uci1x-0
+Computer Graphics~edx~UCSanDiegoX~true~https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-3
+Basic Spanish 2: One Step Further~edx~UPValenciaX~true~https://www.edx.org/course/basic-spanish-2-one-step-further-upvalenciax-bsp102x-0
+Micro and Nanofabrication (MEMS)~edx~EPFLx~true~https://www.edx.org/course/micro-nanofabrication-mems-epflx-memsx-0
+Just Reading and Writing in English | 生活英语读写~edx~TsinghuaX~true~https://www.edx.org/course/just-reading-writing-english-sheng-huo-tsinghuax-90640012x-0
+English at Work in Asia: Job Applications~edx~HKPolyUx~true~https://www.edx.org/course/english-work-asia-job-applications-hkpolyux-ewa1-1-1x
+English at Work in Asia: Job Interviews~edx~HKPolyUx~true~https://www.edx.org/course/english-work-asia-job-interviews-hkpolyux-ewa1-2x
+Building a Cybersecurity Toolkit~edx~UWashingtonX~true~https://www.edx.org/course/building-cybersecurity-toolkit-uwashingtonx-cyb003x
+Computational Thinking and Big Data~edx~AdelaideX~true~undefined
+Advanced Biobased Conversion~edx~WageningenX~true~undefined
+Mortgage Backed Securities: A Brief Introduction~edx~NYIF~true~https://www.edx.org/course/mortgage-backed-securities-brief-new-york-institute-finance-mbsx
+AP® Psychology - Course 1: What is Psychology?~edx~UBCx~true~https://www.edx.org/course/apr-psychology-course-1-what-psychology-ubcx-psyc-1x-0
+CSS Basics~edx~W3Cx~true~https://www.edx.org/course/css-basics-w3cx-css-0x-0
+Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity~edx~MITx~true~https://www.edx.org/course/visualizing-japan-1850s-1930s-harvardx-mitx-vjx-3
+Leading Educational Innovation and Improvement Capstone~edx~MichiganX~true~undefined
+Budgeting and Finance for Public Libraries~edx~MichiganX~true~https://www.edx.org/course/budgeting-finance-public-libraries-michiganx-publib604
+Digital Strategy and Action~edx~BabsonX~true~https://www.edx.org/course/digital-strategy-action-babsonx-bpet-stratx-0
+Anatomy: Cardiovascular, Urinary, and Respiratory Systems~edx~MichiganX~true~https://www.edx.org/course/anatomy-cardiovascular-urinary-michiganx-anatomy403-2x
+Understanding Alzheimer’s Disease: A Molecular and Genetic Approach~edx~UTSanAntonioX~true~https://www.edx.org/course/understanding-alzheimers-disease-utsanantoniox-ad001x
+Programming for the Web with JavaScript~edx~PennX~true~https://www.edx.org/course/programming-web-javascript-pennx-sd4x
+AP® Psychology - Course 2: How the Brain Works~edx~UBCx~true~https://www.edx.org/course/apr-psychology-course-2-how-brain-works-ubcx-psyc-2x-0
+AP® Psychology - Course 3: How the Mind Works~edx~UBCx~true~https://www.edx.org/course/apr-psychology-course-3-how-mind-works-ubcx-psyc-3x-0
+AP® Psychology - Course 4: How Behavior Works~edx~UBCx~true~https://www.edx.org/course/apr-psychology-course-4-how-behavior-ubcx-psyc-4x-0
+AP® Psychology - Course 5: Health and Behavior~edx~UBCx~true~https://www.edx.org/course/apr-psychology-course-5-health-behavior-ubcx-psyc-5x-0
+AP® Psychology - Course 6: Exam Preparation & Review~edx~UBCx~true~https://www.edx.org/course/apr-psychology-course-6-exam-preparation-ubcx-psyc-6x-0
+Sharpen Your Piano Artistry~edx~JuilliardX~true~https://www.edx.org/course/sharpen-piano-artistry-juilliardx-jx005x
+How to Listen to Great Music for Orchestra~edx~JuilliardX~true~https://www.edx.org/course/how-listen-great-music-orchestra-juilliardx-jx006x
+Music Theory 101~edx~JuilliardX~true~https://www.edx.org/course/music-theory-101-juilliardx-jx001x
+AP® Calculus BC~edx~DavidsonNext~true~https://www.edx.org/course/apr-calculus-bc-davidson-next-calapbcx-0
+AP® Calculus: Challenging Concepts from Calculus AB & Calculus BC~edx~DavidsonNext~true~https://www.edx.org/course/apr-calculus-challenging-concepts-davidson-next-calapccx-1
+AP® Macroeconomics~edx~DavidsonNext~true~https://www.edx.org/course/apr-macroeconomics-davidson-next-macapfull-1
+AP® Physics 2: Challenging Concepts~edx~DavidsonNext~true~https://www.edx.org/course/apr-physics-2-challenging-concepts-davidson-next-phy2apccx-0
+AP® Physics 1: Challenging Concepts~edx~DavidsonNext~true~https://www.edx.org/course/apr-physics-1-challenging-concepts-davidson-next-phy1apccx-0
+Fundamentals of Containers, Kubernetes, and Red Hat OpenShift~edx~RedHat~true~https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x
+UX Research Surveys~edx~MichiganX~true~undefined
+Software Construction: Data Abstraction~edx~UBCx~true~undefined
+Introductory AP® Microeconomics~edx~MITx~true~https://www.edx.org/course/introductory-apr-microeconomics-mitx-14-01x
+u.lab: Leading Change in Times of Disruption~edx~MITx~true~https://www.edx.org/course/u-lab-leading-change-times-disruption-mitx-15-671-0x
+Introduction to Steel~edx~TenarisUniversityX~true~https://www.edx.org/course/introduction-steel-tenarisuniversity-steel101x-2
+Evidence-Based Management Foundations~edx~ANUx~true~undefined
+Lab Safety: The Interactive Game of Don’t Endanger the Owls~edx~RiceX~true~https://www.edx.org/course/lab-safety-interactive-game-dont-ricex-labsafety-1x-0
+AP® Italian Language and Culture~edx~WellesleyX~true~https://www.edx.org/course/apr-italian-language-culture-wellesleyx-apita-x
+Stochastic Processes: Data Analysis and Computer Simulation~edx~KyotoUx~true~https://www.edx.org/course/stochastic-processes-data-analysis-kyotoux-009x-0
+Urban Sewage Treatment~edx~DelftX~true~https://www.edx.org/course/urban-sewage-treatment-delftx-ctb3365stx-1
+Discovering the Instruments of the Orchestra~edx~JuilliardX~true~https://www.edx.org/course/discovering-instruments-orchestra-juilliardx-jx003x
+Healthy Ageing in 6 Steps. Let your environment do the work.~edx~DelftX~true~https://www.edx.org/course/healthy-ageing-6-steps-let-environment-delftx-eit001x-0
+Perform at Your Best: Foundations of Performance Psychology~edx~JuilliardX~true~https://www.edx.org/course/perform-best-foundations-performance-juilliardx-jx004x
+Algorithm Design and Analysis~edx~PennX~true~https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+Personnel Management for Public Libraries~edx~MichiganX~true~https://www.edx.org/course/personnel-management-public-libraries-michiganx-publib603x
+Social Work Practice in Community Organization, Management and Policy/Evaluation~edx~MichiganX~true~undefined
+Case Studies in Continuous Educational Improvement~edx~MichiganX~true~undefined
+Financial Analysis for Decision Making~edx~BabsonX~true~https://www.edx.org/course/financial-analysis-decision-making-babsonx-bpet-finx-0
+Cybersecurity: The CISO's View~edx~UWashingtonX~true~https://www.edx.org/course/cybersecurity-cisos-view-uwashingtonx-cyb002x
+Understanding User Needs~edx~MichiganX~true~undefined
+Robotics: Vision Intelligence and Machine Learning~edx~PennX~true~undefined
+Robotics: Dynamics and Control~edx~PennX~true~undefined
+Introduction to Kubernetes~edx~LinuxFoundationX~true~https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x
+Data Structures and Software Design~edx~PennX~true~https://www.edx.org/course/data-structures-software-design-pennx-sd2x
+Human Anatomy~edx~HKPolyUx~true~https://www.edx.org/course/human-anatomy-hkpolyux-ana101x-1
+Improvement Science in Education~edx~MichiganX~true~undefined
+Finance for Everyone: Smart Tools for Decision-Making~edx~MichiganX~true~https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1
+Anatomy: Musculoskeletal and Integumentary Systems~edx~MichiganX~true~https://www.edx.org/course/anatomy-musculoskeletal-integumentary-michiganx-anatomy403-1x
+Shylock’s Bond~edx~HarvardX~true~https://www.edx.org/course/shylocks-bond-harvardx-hum3-2x
+PredictionX: Diviner’s Guide~edx~HarvardX~true~https://www.edx.org/course/predictionx-diviners-guide-harvardx-soc1-practx
+How to Code: Complex Data~edx~UBCx~true~undefined
+Evidence-Based Stakeholder Marketing~edx~ANUx~true~undefined
+UX Design: From Wireframe to Prototype~edx~MichiganX~true~undefined
+Surface Science: Methods of Surface Analysis~edx~MEPhIx~true~https://www.edx.org/course/surface-science-methods-surface-analysis-mephix-mephi006x
+Marketing Fundamentals: Who Is Your Customer?~edx~BabsonX~true~https://www.edx.org/course/marketing-fundamentals-who-customer-babsonx-bpet-mktx-0
+Introduction to Apache Hadoop~edx~LinuxFoundationX~true~https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x
+Fundamentals of Red Hat Enterprise Linux~edx~RedHat~true~https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x
+Introduction to Computer Numerical Control~edx~TenarisUniversity~true~https://www.edx.org/course/introduction-computer-numerical-control-tenarisuniversity-cnc101x
+Managing a Diverse and Inclusive Workplace for Public Libraries~edx~MichiganX~true~https://www.edx.org/course/managing-diverse-inclusive-workplace-michiganx-publib602x
+Sensing Planet Earth – Water and Ice~edx~ChalmersX~true~https://www.edx.org/course/sensing-planet-earth-water-ice-chalmersx-chm004x-0
+Saving Schools: Reforming the U.S. Education System~edx~HarvardX~true~https://www.edx.org/course/saving-schools-reforming-u-s-education-harvardx-1368x
+Advanced Transport Phenomena~edx~DelftX~true~https://www.edx.org/course/advanced-transport-phenomena-delftx-tp201x-0
+Women Have Always Worked: The U.S. Experience 1920 – 2016~edx~ColumbiaX~true~https://www.edx.org/course/women-have-always-worked-u-s-experience-columbiax-whaw1-2x
+HTML5 Coding Essentials and Best Practices~edx~W3Cx~true~https://www.edx.org/course/html5-coding-essentials-w3cx-html5-1x-2
+Ecodesign for Cities and Suburbs~edx~UBCx~true~https://www.edx.org/course/ecodesign-cities-suburbs-ubcx-ecodesignx-0
+Demystifying Biomedical Big Data: A User’s Guide~edx~GeorgetownX~true~https://www.edx.org/course/demystifying-biomedical-big-data-users-georgetownx-biox-201-01x-0
+Programming for Data Science~edx~AdelaideX~true~undefined
+Statistical Thinking for Data Science and Analytics~edx~ColumbiaX~true~https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x-1
+Machine Learning for Data Science and Analytics~edx~ColumbiaX~true~https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1
+Enabling Technologies for Data Science and Analytics: The Internet of Things~edx~ColumbiaX~true~https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-1
+Family Business – Strategy Essentials~edx~UBCx~true~https://www.edx.org/course/family-business-strategy-essentials-ubcx-fbsex1-0
+Software Development Fundamentals~edx~PennX~true~https://www.edx.org/course/software-development-fundamentals-pennx-sd1x
+Tsinghua Chinese: Start Talking with 1.3 Billion People~edx~TsinghuaX~true~https://www.edx.org/course/tsinghua-chinese-start-talking-1-3-tsinghuax-tm01x-0
+Diversity and Social Justice in Social Work~edx~MichiganX~true~undefined
+Analytics for Decision Making~edx~BabsonX~true~https://www.edx.org/course/analytics-decision-making-babsonx-bpet-statx-0
+Climate Change: The Science~edx~UBCx~true~https://www.edx.org/course/climate-change-science-ubcx-climate1x-3
+Evidence-Based Business Communication~edx~ANUx~true~undefined
+How to Write an Essay~edx~BerkeleyX~true~https://www.edx.org/course/how-write-essay-uc-berkeleyx-colwri2-1x-3
+Identifying Community Needs for Public Library Management~edx~MichiganX~true~https://www.edx.org/course/identifying-community-needs-public-michiganx-publib601x
+Technology Innovation for Sustainable Development~edx~EPFLx~true~https://www.edx.org/course/technology-innovation-sustainable-epflx-innov4devx
+Digital Branding and Engagement~edx~CurtinX~true~undefined
+Introduction to Aeronautical Engineering~edx~DelftX~true~https://www.edx.org/course/introduction-aeronautical-engineering-delftx-ae1110x-2
+Introduction to Cloud Foundry and Cloud Native Software Architecture~edx~LinuxFoundationX~true~https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x
+UX Design: From Concept to Wireframe~edx~MichiganX~true~undefined
+How to Code: Simple Data~edx~UBCx~true~undefined
+American Government~edx~HarvardX~true~https://www.edx.org/course/american-government-harvardx-hks101a-0
+Designing and Leading Learning Systems~edx~MichiganX~true~undefined
+Quantum Mechanics for Everyone~edx~GeorgetownX~true~https://www.edx.org/course/quantum-mechanics-everyone-georgetownx-phyx-008-01x
+Robotics: Fundamentals~edx~PennX~true~undefined
+Introduction to German Opera~edx~DartmouthX~true~https://www.edx.org/course/introduction-german-opera-dartmouthx-dart-mus-02x
+Financial Accounting Made Fun: Eliminating Your Fears~edx~BabsonX~true~https://www.edx.org/course/financial-accounting-made-fun-babsonx-bpet-accx-0
+Analytics for the Classroom Teacher~edx~CurtinX~true~https://www.edx.org/course/analytics-classroom-teacher-curtinx-edu1x-0
+Think. Create. Code~edx~AdelaideX~true~https://www.edx.org/course/think-create-code-adelaidex-code101x-3
+Introduction to Project Management~edx~AdelaideX~true~https://www.edx.org/course/introduction-project-management-adelaidex-project101x-1
+Working in Teams: A Practical Guide~edx~UQx~true~https://www.edx.org/course/working-teams-practical-guide-uqx-teams101x-2
+Nuclear Reactor Physics Basics~edx~MEPhIx~true~https://www.edx.org/course/nuclear-reactor-physics-basics-mephix-mephi005x
+Introduction to Linux~edx~LinuxFoundationX~true~https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1
+Corporate Financial Policy~edx~MichiganX~true~https://www.edx.org/course/corporate-financial-policy-michiganx-fin404x
+Women Have Always Worked: The U.S. Experience 1700 – 1920~edx~ColumbiaX~true~https://www.edx.org/course/women-have-always-worked-u-s-experience-columbiax-whaw1-1x
+Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications~edx~EPFLx~true~https://www.edx.org/course/fundamentals-biomedical-imaging-epflx-fndbioimgx-0
+The Value of Business Models~edx~DelftX~true~https://www.edx.org/course/value-business-models-delftx-bmi-1x-0
+Understanding Nuclear Energy~edx~DelftX~true~https://www.edx.org/course/understanding-nuclear-energy-delftx-nuclear01x-0
+The Architectural Imagination~edx~HarvardX~true~https://www.edx.org/course/architectural-imagination-harvardx-gsd1x
+Chinese History From Warring States to the Tang Dynasty | 资治通鉴~edx~TsinghuaX~true~https://www.edx.org/course/chinese-history-warring-states-tang-tsinghuax-00612642x
+Policy Analysis Using Interrupted Time Series~edx~UBCx~true~https://www.edx.org/course/policy-analysis-using-interrupted-time-ubcx-itsx-2
+Evidence-Based Practice in Management~edx~ANUx~true~undefined
+Financial Institutions and Markets~edx~MichiganX~true~https://www.edx.org/course/financial-institutions-markets-michiganx-fin403x
+Study Abroad USA: Building Capacity for US Institutions~edx~ASUx~true~https://www.edx.org/course/study-abroad-usa-building-capacity-us-asux-gbl500x
+MATLAB and Octave for Beginners~edx~EPFLx~true~https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx
+Project Risk Assessment~edx~MichiganX~true~https://www.edx.org/course/project-risk-assessment-michiganx-fin402x
+Hollywood: History, Industry, Art~edx~PennX~true~https://www.edx.org/course/hollywood-history-industry-art-pennx-hollywoodx
+Financial Decision Rules for Project Evaluation~edx~MichiganX~true~https://www.edx.org/course/financial-decision-rules-project-michiganx-fin401x
+Introduction to OpenStack~edx~LinuxFoundationX~true~https://www.edx.org/course/introduction-openstack-linuxfoundationx-lfs152x
+Managing Addiction: A Framework for Successful Treatment~edx~AdelaideX~true~https://www.edx.org/course/managing-addiction-framework-successful-adelaidex-addictionx-0
+The Rise of Superheroes and Their Impact On Pop Culture~edx~SmithsonianX~true~https://www.edx.org/course/rise-superheroes-impact-pop-culture-smithsonianx-popx1-5x
+AP Physics 1~edx~RICEx~true~https://www.edx.org/course/ap-physics-1-ricex-advphy1x
+edX101: Overview of Creating an edX Course~edx~edX~true~https://www.edx.org/course/edx101-overview-creating-edx-course-edx-edx101
+BlendedX: Blended Learning with edX~edx~edX~true~https://www.edx.org/course/blendedx-blended-learning-edx-edx-blendedx
+VideoX: Creating Video for the edX Platform~edx~edX~true~https://www.edx.org/course/videox-creating-video-edx-platform-edx-videox
+生活英语听说 | Conversational English Skills~edx~TsinghuaX~true~https://www.edx.org/course/sheng-huo-ying-yu-ting-shuo-tsinghuax-30640014x
+Greatest Unsolved Mysteries of the Universe~edx~ANUx~true~https://www.edx.org/course/greatest-unsolved-mysteries-universe-anux-anu-astro1x-2
+Astrophysics: Exploring Exoplanets~edx~ANUx~true~https://www.edx.org/course/astrophysics-exploring-exoplanets-anux-anu-astro2x-1
+Astrophysics: The Violent Universe~edx~ANUx~true~https://www.edx.org/course/astrophysics-violent-universe-anux-anu-astro3x-0
+Astrophysics: Cosmology~edx~ANUx~true~https://www.edx.org/course/astrophysics-cosmology-anux-anu-astro4x-0
+Introduction to Actuarial Science~edx~ANUx~true~https://www.edx.org/course/introduction-actuarial-science-anux-anu-actuarialx-1
+Cellular Mechanisms of Brain Function~edx~EPFLx~true~https://www.edx.org/course/cellular-mechanisms-brain-function-epflx-brainx-1
+CS50's AP® Computer Science Principles~edx~HarvardX~true~https://www.edx.org/course/cs50s-apr-computer-science-principles-harvardx-cs50-ap
+CS50's Introduction to Computer Science~edx~HarvardX~true~https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
+Introduction to Algebra~edx~SchoolYourself~true~https://www.edx.org/course/introduction-algebra-schoolyourself-algebrax-1
+World of Wine: From Grape to Glass~edx~AdelaideX~true~https://www.edx.org/course/world-wine-grape-glass-adelaidex-wine101x-2
+PredictionX: John Snow and the Cholera Epidemic of 1854~edx~HarvardX~true~https://www.edx.org/course/predictionx-john-snow-cholera-epidemic-harvardx-soc1-jsx
+Circuits and Electronics 1: Basic Circuit Analysis~edx~MITx~true~https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0
+Circuits and Electronics 2: Amplification, Speed, and Delay~edx~MITx~true~https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0
+Circuits and Electronics 3: Applications~edx~MITx~true~https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0
+Visualizing Postwar Tokyo, Part 1~edx~UTokyoX~true~https://www.edx.org/course/visualizing-postwar-tokyo-part-1-utokyox-utokyo001x-1
+Visualizing Postwar Tokyo, Part 2~edx~UTokyoX~true~https://www.edx.org/course/visualizing-postwar-tokyo-part-2-utokyox-utokyo002x-1
+Quantum Mechanics of Molecular Structures~edx~UTokyoX~true~https://www.edx.org/course/quantum-mechanics-molecular-structures-utokyox-utokyo003x-1
+The History of Medieval Medicine Through Jewish Manuscripts~edx~PennX~true~https://www.edx.org/course/history-medieval-medicine-through-jewish-pennx-katz1-1x
+Introduction to Cloud Infrastructure Technologies~edx~LinuxFoundationX~true~https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x
+Electrotechnique I~edx~EPFLx~true~https://www.edx.org/course/electrotechnique-i-epflx-ee-100bx-1
+Fundamentals of Market Structure~edx~NYIF~true~https://www.edx.org/course/fundamentals-market-structure-new-york-institute-finance-etfm2016-1x
+Envisioning the Graduate of the Future~edx~MITx~true~https://www.edx.org/course/envisioning-the-graduate-of-the-future
+Calculus 1C: Coordinate Systems & Infinite Series~edx~MITx~true~https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0
+Forced and Precarious Labor in the Global Economy: Slavery by Another Name?~edx~WitsX~true~https://www.edx.org/course/forced-labour-and-precarious-labour-in-the-global-economy-slavery-by-another-name
+Urban Design for the Public Good: Dutch Urbanism~edx~DelftX~true~https://www.edx.org/course/urban-design-public-good-dutch-urbanism-delftx-urbanismx-0
+Manufacturing Process Control: Variation Modeling and Control~edx~MITx~true~undefined
+Environmental Protection and Sustainability~edx~IsraelX~true~https://www.edx.org/course/environmental-protection-and-sustainability
+Solar Energy: Integration of Photovoltaic Systems in Microgrids~edx~DelftX~true~undefined
+The Future of Mining?~edx~UQx~true~https://www.edx.org/course/future-mining-uqx-miningx
+Principles and Practices of Islamic Insurance~edx~IRTIx~true~https://www.edx.org/course/principles-practices-islamic-insurance-irtix-iipp101x
+AP Computer Science A: Java Programming Polymorphism and Advanced Data Structures~edx~PurdueX~true~https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0
+Critical Thinking & Problem Solving~edx~RITx~true~https://www.edx.org/course/critical-thinking-problem-solving-ritx-skills103x
+Online Marketing Strategies~edx~CurtinX~true~undefined
+Synchrotrons and X-Ray Free Electron Lasers~edx~EPFLx~true~https://www.edx.org/course/synchrotrons-and-x-ray-free-electron-lasers
+Human Rights Theory and Philosophy~edx~CurtinX~true~undefined
+Introduction to Biology - The Secret of Life~edx~MITx~true~https://www.edx.org/course/introduction-to-biology-the-secret-of-life-0
+Introduction to Web Cartography: Part 1~edx~ETHx~true~https://www.edx.org/course/introduction-to-web-cartography-part-1
+The Medieval Icelandic Sagas~edx~UIcelandX~true~https://www.edx.org/course/medieval-icelandic-sagas-uicelandx-uoi001x
+Liberating Programming: System Development for Everyone~edx~IsraelX~true~https://www.edx.org/course/liberating-programming-system-development-for-everyone
+Electric and Conventional Vehicles~edx~ChalmersX~true~undefined
+Electronic, Optical and Magnetic Properties of Materials~edx~MITx~true~https://www.edx.org/course/electronic-optical-magnetic-properties-mitx-3-024x
+Sparse Representations in Image Processing: From Theory to Practice~edx~IsraelX~true~https://www.edx.org/course/sparse-representations-image-processing-israelx-236862-2x
+Introduction to the Internet of Things (IoT)~edx~CurtinX~true~undefined
+Industry 4.0: How to Revolutionize your Business~edx~HKPolyUx~true~https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x
+Make Your Own App~edx~TUMx~true~https://www.edx.org/course/make-own-app-tumx-myoax
+Quantum Information Science I, Part 2~edx~MITx~true~https://www.edx.org/course/quantum-information-science-i-part-2-mitx-8-370-2x
+Basic 3D Modeling using Blender~edx~IITBombayX~true~https://www.edx.org/course/basic-3d-modeling-using-blender-iitbombayx-skani101x
+Electric Cars: Introduction~edx~DelftX~true~https://www.edx.org/course/electric-cars-technology-business-policy-delftx-ecars1x
+Introduction to the Quran: The Scripture of Islam~edx~NotreDameX~true~https://www.edx.org/course/introduction-to-the-quran-the-scripture-of-islam
+English Grammar and Style~edx~UQx~true~https://www.edx.org/course/english-grammar-style-uqx-write101x-6
+Big Data Strategies to Transform Your Business~edx~DelftX~true~https://www.edx.org/course/big-data-strategies-transform-business-delftx-bd1x
+Monetize your Android Applications~edx~GalileoX~true~undefined
+Multilevel Converters for Medium/High-Power Applications~edx~GTx~true~https://www.edx.org/course/gt-multilevel-converters-for-mediumhigh-power-applications
+Project Management of Engineering Projects: Preparing for Success!~edx~DelftX~true~https://www.edx.org/course/project-management-engineering-projects-delftx-mep101x-1
+Circular Economy: An Introduction~edx~Delftx~true~https://www.edx.org/course/circular-economy-an-introduction
+Solar Energy: Photovoltaic (PV) Technologies~edx~DelftX~true~undefined
+AP® Spanish Language and Culture~edx~BUx~true~https://www.edx.org/course/apr-spanish-language-culture-bux-spanishx-1
+Deep Learning through Transformative Pedagogy~edx~UQx~true~https://www.edx.org/course/deep-learning-through-transformative-uqx-microsoft-education-learnx-1
+Global Health Informatics to Improve Quality of Care~edx~MITx~true~https://www.edx.org/course/designing-health-information-systems
+Responsive Cities~edx~ETHx~true~https://www.edx.org/course/responsive-cities
+Sustainability in Everyday Life~edx~ChalmersX~true~https://www.edx.org/course/sustainability-everyday-life-chalmersx-chm002x-1
+Lean Production~edx~TUMx~true~https://www.edx.org/course/lean-production-tumx-qpls3x
+Signals and Systems, Part 1~edx~IITBombayX~true~https://www.edx.org/course/signals-and-systems-part-1-1
+Machine Learning Fundamentals~edx~UCSanDiegoX~true~undefined
+Introduction to Social Research Methods~edx~EdinburghX~true~https://www.edx.org/course/introduction-to-social-research-methods
+Artificial Intelligence (AI)~edx~ColumbiaX~true~undefined
+Machine Learning~edx~ColumbiaX~true~undefined
+Robotics~edx~ColumbiaX~true~undefined
+Animation and CGI Motion~edx~ColumbiaX~true~undefined
+Analytics in Python~edx~ColumbiaX~true~undefined
+The Conscious Mind - A Philosophical Road Trip~edx~TrinityX~true~https://www.edx.org/course/the-conscious-mind-a-philosophical-road-trip
+Drinking Water Treatment~edx~DelftX~true~https://www.edx.org/course/drinking-water-treatment-delftx-ctb3365dwx-2
+Energy Principles and Renewable Energy~edx~UQx~true~undefined
+Mechanics of Deformable Structures: Part 1~edx~MITx~true~https://www.edx.org/course/mechanics-deformable-structures-part-1-mitx-2-02-1x
+Introduction to Probability: Part II – Inference & Processes~edx~MITx~true~https://www.edx.org/course/introduction-to-probability-part-2-inference-processes
+Leading the Organization~edx~UQx~true~undefined
+Powershell Security Best Practices~edx~Microsoft~true~https://www.edx.org/course/powershell-security-best-practices-microsoft-inf251x
+The Ancient Greek Hero~edx~HarvardX~true~https://www.edx.org/course/ancient-greek-hero-harvardx-hum2x-0
+The Science of Happiness~edx~BerkeleyX~true~https://www.edx.org/course/science-happiness-uc-berkeleyx-gg101x-6
+Making Sense of Climate Science Denial~edx~UQx~true~https://www.edx.org/course/making-sense-climate-science-denial-uqx-denial101x-6
+Time Series Analysis~edx~GTx~true~https://www.edx.org/course/time-series-analysis
+Machine Learning~edx~GTx~true~https://www.edx.org/course/machine-learning-gtx-cs7641x-0
+The Beauty and Joy of Computing - AP® CS Principles Part 2~edx~BerkeleyX~true~https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0
+Deterministic Optimization~edx~GTx~true~https://www.edx.org/course/deterministic-optimization
+Deploy and Service Mobile Apps Using Azure App Service~edx~Microsoft~true~https://www.edx.org/course/deploy-and-service-your-mobile-app-on-azure
+Poetry in America: Modernism~edx~HarvardX~true~https://www.edx.org/course/poetry-america-modernism-harvardx-ampox-6-0
+Poetry in America: The Civil War and Its Aftermath~edx~HarvardX~true~https://www.edx.org/course/poetry-america-civil-war-its-aftermath-harvardx-ampox-5-0
+DevOps for Mobile Apps~edx~Microsoft~true~https://www.edx.org/course/devops-mobile-apps-microsoft-devops200-8x
+Poetry in America: Emily Dickinson~edx~HarvardX~true~https://www.edx.org/course/poetry-america-emily-dickinson-harvardx-ampox-4-0
+Poetry in America: Whitman~edx~HarvardX~true~https://www.edx.org/course/poetry-america-whitman-harvardx-ampox-3-0
+Microsoft Azure Security Services~edx~Microsoft~true~https://www.edx.org/course/microsoft-azure-security-services-microsoft-inf260x
+Poetry in America: Nature and Nation, 1700-1850~edx~HarvardX~true~https://www.edx.org/course/poetry-america-nature-nation-1700-1850-harvardx-ampox-2-0
+Windows Server 2016 Security Features~edx~Microsoft~true~https://www.edx.org/course/windows-server-2016-security-features-microsoft-inf259x
+Poetry in America: The Poetry of Early New England~edx~HarvardX~true~https://www.edx.org/course/poetry-america-poetry-early-new-england-harvardx-ampox-1-0
+First Nights: Monteverdi’s L’Orfeo and the Birth of Opera~edx~HarvardX~true~https://www.edx.org/course/first-nights-monteverdis-lorfeo-birth-harvardx-mus24-1x-0
+Corporate Finance~edx~IIMBx~true~undefined
+A Resilient Future: Science and Technology for Disaster Risk Reduction~edx~EPFLx~true~https://www.edx.org/course/resilient-future-science-technology-epflx-tech4drr-0
+Preparing for the AP Physics 1 Exam~edx~BUx~true~https://www.edx.org/course/preparing-ap-physics-1-exam-bux-py1x-0
+Smart Cities~edx~ETHx~true~https://www.edx.org/course/smart-cities-ethx-ethx-fc-03x-1
+Introduction to Data Analytics for Managers~edx~MichiganX~true~https://www.edx.org/course/introduction-data-analytics-managers-michiganx-ds120x
+How to Design a Successful Business Model~edx~DelftX~true~https://www.edx.org/course/how-design-successful-business-model-delftx-bmi-2x-0
+Modern Japanese Architecture: From Meiji Restoration to Today~edx~TokyoTechX~true~https://www.edx.org/course/modern-japanese-architecture-meiji-tokyotechx-arch101x-0
+Combinatorial Mathematics | 组合数学~edx~TsinghuaX~true~https://www.edx.org/course/combinatorial-mathematics-zu-he-shu-xue-tsinghuax-60240013x-2
+Water and Wastewater Treatment Engineering: Biochemical Technology | 水处理工程：生物化学方法~edx~TsinghuaX~true~https://www.edx.org/course/water-wastewater-treatment-engineering-tsinghuax-40050455-2x-0
+Water and Wastewater Treatment Engineering: Physicochemical Technology | 水处理工程：物理化学方法~edx~TsinghuaX~true~https://www.edx.org/course/water-wastewater-treatment-engineering-tsinghuax-40050455x-2
+Introduction to Deep Earth Science~edx~TokyoTechX~true~https://www.edx.org/course/introduction-deep-earth-science-tokyotechx-geos101x
+UML Class Diagrams for Software Engineering~edx~KULeuvenX~true~https://www.edx.org/course/uml-class-diagrams-software-engineering-kuleuvenx-umlx-1
+Leaders in Global Development~edx~UQx~true~undefined
+The Science and Practice of Sustainable Development~edx~UQx~true~undefined
+Adaptive Leadership in Development~edx~UQx~true~undefined
+Critical Development Perspectives~edx~UQx~true~undefined
+Nutrition and Health: Macronutrients and Overnutrition~edx~WageningenX~true~https://www.edx.org/course/nutrition-and-health-macronutrients-and-overnutrition
+Nutrition and Health: Micronutrients and Malnutrition~edx~WageningenX~true~https://www.edx.org/course/nutrition-and-health-micronutrients-and-malnutrition
+Evaluating Designs with Users~edx~MichiganX~true~undefined
+Mastering Quantum Mechanics Part 1: Wave Mechanics~edx~MITx~true~https://www.edx.org/course/mastering-quantum-mechanics-part-1-wave-mitx-8-05-1x-0
+Data for Effective Policy Making~edx~IDBx~true~https://www.edx.org/course/data-for-effective-policy-making
+Masterpieces of World Literature~edx~HarvardX~true~https://www.edx.org/course/masterpieces-of-world-literature
+Essential Human Biology: Cells and Tissues~edx~AdelaideX~true~https://www.edx.org/course/essential-human-biology-cells-and-tissues
+Reputation Management in a Digital World~edx~CurtinX~true~undefined
+Statistical Analysis in Bioinformatics~edx~USMx~true~undefined
+Data Science: Probability~edx~HarvardX~true~https://www.edx.org/course/data-science-probability-harvardx-ph125-3x
+Social Welfare Policy and Services~edx~MichiganX~true~undefined
+Microsoft Professional Capstone: IT Support~edx~Microsoft~true~https://www.edx.org/course/microsoft-professional-capstone-it-support
+Data Structures Fundamentals~edx~UCSanDiegoX~true~undefined
+Microsoft Professional Capstone : DevOps~edx~Microsoft~true~https://www.edx.org/course/microsoft-professional-capstone-devops-microsoft-devops200-10x
+Marketing Analytics: Products, Distribution and Sales~edx~BerkeleyX~true~undefined
+Islam Through Its Scriptures~edx~HarvardX~true~https://www.edx.org/course/islam-through-its-scriptures
+Engineering: Building with Nature~edx~DelftX~true~https://www.edx.org/course/engineering-building-with-nature
+Basic Spanish 1: Getting Started~edx~UPValenciaX~true~https://www.edx.org/course/basic-spanish-1-getting-started
+Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry)~edx~HarvardX~true~https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-chemistry
+Pediatric HIV Nursing~edx~ColumbiaX~true~https://www.edx.org/course/pediatric-hiv-nursing-columbiax-phn8x
+Introduction to Statistical Methods for Gene Mapping~edx~KyotoUx~true~https://www.edx.org/course/introduction-to-statistical-methods-for-gene-mapping
+The Conquest of Space: Space Exploration and Rocket Science~edx~UC3Mx~true~https://www.edx.org/course/the-conquest-of-space-space-exploration-and-rocket-science
+The Software Architect Code: Building the Digital World~edx~UC3Mx~true~https://www.edx.org/course/the-software-architect-code-building-the-digital-world
+Cyber Security Basics: A Hands-on Approach~edx~UC3Mx~true~https://www.edx.org/course/cyber-security-basics-a-hands-on-approach
+IT Fundamentals for Business Professionals: Hardware~edx~UPValenciaX~true~https://www.edx.org/course/it-fundamentals-business-professionals-upvalenciax-isc101-2x
+Organizational Behaviour~edx~UBCx~true~undefined
+Global Media, War, and Technology~edx~UQx~true~https://www.edx.org/course/global-media-war-and-technology
+AWS Developer: Deploying on AWS~edx~AWS~true~https://www.edx.org/course/aws-developer-deploying-on-aws
+Climate Change Education~edx~IDBx~true~https://www.edx.org/course/climate-change-education
+Chasing your Dream: How to End Procrastination and Get a Job You Love~edx~MEPhIx~true~https://www.edx.org/course/chasing-dream-how-end-procrastination-mephix-mephi012x
+Tropical coastal ecosystems~edx~UQx~true~https://www.edx.org/course/tropical-coastal-ecosystems-uqx-tropic101x-5
+The Opioid Crisis in America~edx~HarvardX~true~https://www.edx.org/course/opioid-crisis-america-harvardx-hhp100-0
+Public Library Marketing and Public Relations~edx~MichiganX~true~https://www.edx.org/course/public-library-marketing-public-michiganx-publib608x
+Mastering Quantum Mechanics Part 2: Quantum Dynamics~edx~MITx~true~https://www.edx.org/course/mastering-quantum-mechanics-part-2-mitx-8-05-2x-0
+Practical Improvement Science in Health Care: A Roadmap for Getting Results~edx~HarvardX~true~https://www.edx.org/course/ph556x-practical-improvement-science-in-health-care-a-roadmap-for-getting-results
+Data Science: Inference and Modeling~edx~HarvardX~true~https://www.edx.org/course/data-science-inference
+Fat Chance: Probability from the Ground Up~edx~HarvardX~true~https://www.edx.org/course/fat-chance-probability-from-the-ground-up
+Debt Sustainability Analysis~edx~IMFx~true~https://www.edx.org/course/debt-sustainability-analysis-imfx-dsax-4
+Program a Server-Side Application using ASP.NET Core~edx~Microsoft~true~https://www.edx.org/course/program-a-server-side-application-using-aspnet-core
+Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis~edx~IMFx~true~https://www.edx.org/course/financial-programming-and-policies-part-1-macroeconomic-accounts-analysis-0
+Sparse Representations in Signal and Image Processing: Fundamentals~edx~IsraelX~true~https://www.edx.org/course/sparse-representations-in-signal-and-image-processing-fundamentals
+Proteins: Alignment, Analysis and Structure~edx~USMx~true~undefined
+Judaism Through Its Scriptures~edx~HarvardX~true~https://www.edx.org/course/judaism-through-its-scriptures
+AWS Developer: Optimizing on AWS~edx~AWS~true~https://www.edx.org/course/aws-developer-optimizing-on-aws
+IT Fundamentals for Business Professionals: Software development~edx~UPValenciaX~true~https://www.edx.org/course/it-fundamentals-business-professionals-upvalenciax-isc101-3x
+Mastering Quantum Mechanics Part 3: Entanglement and Angular Momentum~edx~MITx~true~https://www.edx.org/course/mastering-quantum-mechanics-part-3-entanglement-and-angular-momentum
+The Entrepreneurial Mindset~edx~BabsonX~true~https://www.edx.org/course/the-entrepreneurial-mindset
+From Corporate Social Responsibility to Corporate Social Innovation~edx~BabsonX~true~https://www.edx.org/course/from-corporate-social-responsibility-to-corporate-social-innovation
+Introduction to Biomedical Imaging~edx~UQx~true~https://www.edx.org/course/introduction-to-biomedical-imaging
+Data Science: Productivity Tools~edx~HarvardX~true~https://www.edx.org/course/data-science-productivity-tools-harvardx-ph125-5x
+Introduction to Corporate Finance~edx~UBCx~true~undefined
+Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays~edx~HarvardX~true~https://www.edx.org/course/introduction-bioconductor-annotation-harvardx-ph525-5x-2
+High-performance Computing for Reproducible Genomics~edx~HarvardX~true~https://www.edx.org/course/high-performance-computing-reproducible-harvardx-ph525-6x-1
+Case Studies in Functional Genomics~edx~HarvardX~true~https://www.edx.org/course/case-studies-functional-genomics-harvardx-ph525-7x-1
+Graph Algorithms~edx~UCSanDiegoX~true~undefined
+Find the right markets for your innovation - A tool for entrepreneurs and innovators for choosing which markets to play in.~edx~EPFLx~true~https://www.edx.org/course/find-the-right-markets-for-your-innovation-a-tool-for-entrepreneurs-and-innovators-for-choosing-which-markets-to-play-in
+DNA Sequences: Alignments and Analysis~edx~USMx~true~undefined
+Hinduism Through Its Scriptures~edx~HarvardX~true~https://www.edx.org/course/hinduism-through-its-scriptures
+Customer Relationship Management~edx~IIMBx~true~https://www.edx.org/course/customer-relationship-management
+IT Fundamentals for Business Professionals: Programming~edx~UPValenciaX~true~https://www.edx.org/course/it-fundamentals-business-professionals-upvalenciax-isc101-4x
+Storytelling in the Workplace~edx~RITx~true~https://www.edx.org/course/storytelling-workplace-ritx-skills104x-0
+Data Science: Wrangling~edx~HarvardX~true~https://www.edx.org/course/data-science-wrangling-harvardx-ph125-6x
+Christianity Through Its Scriptures~edx~HarvardX~true~https://www.edx.org/course/christianity-through-its-scriptures
+Data Science: Linear Regression~edx~HarvardX~true~https://www.edx.org/course/data-science-linear-regression
+IT Fundamentals for Business Professionals: Social implications~edx~UPValenciaX~true~https://www.edx.org/course/it-fundamentals-business-professionals-upvalenciax-isc101-5x
+Video Game Design: Teamwork & Collaboration~edx~RITx~true~https://www.edx.org/course/video-game-design-teamwork-collaboration-ritx-game104x-0
+Data Science: Machine Learning~edx~HarvardX~true~https://www.edx.org/course/data-science-machine-learning
+Data Science: Capstone~edx~HarvardX~true~https://www.edx.org/course/data-science-capstone
+Public Speaking~edx~RITx~true~https://www.edx.org/course/public-speaking-ritx-skills105x-0
+Entrepreneurial Leadership Toolbox~edx~BabsonX~true~https://www.edx.org/course/entrepreneurial-leadership-toolbox
+Responsible Innovation: Ethics, Safety and Technology~edx~DelftX~true~https://www.edx.org/course/responsible-innovation-ethics-safety-delftx-ri101x-0
+String Processing and Pattern Matching Algorithms~edx~UCSanDiegoX~true~undefined
+Gameplay Programming for Video Game Designers~edx~RITx~true~https://www.edx.org/course/gameplay-programming-video-game-ritx-game105x-0
+Entrepreneurial Operations: Launching a Startup~edx~BabsonX~true~https://www.edx.org/course/entrepreneurial-operations-launching-a-startup
+Visual Presentation~edx~RITx~true~https://www.edx.org/course/visual-presentation-ritx-skills106x-0
+Dynamic Programming: Applications In Machine Learning and Genomics~edx~UCSanDiegoX~true~undefined
+Algorithms and Data Structures Capstone~edx~UCSanDiegoX~true~undefined
+Accounting Essentials for MBA Success~edx~ImperialBusinessX~true~https://www.edx.org/course/accounting-essentials-mba-success-imperialx-icbs001
+Maths Essentials for MBA Success~edx~ImperialBusinessX~true~https://www.edx.org/course/maths-essentials-mba-success-imperialx-icbs003
+A System View of Communications: From Signals to Packets (Part 2)~edx~HKUSTx~true~https://www.edx.org/course/a-system-view-of-communications-from-signals-to-packets-part-2
+Entrepreneurship for Engineers~edx~DelftWageningenX~true~https://www.edx.org/course/entrepreneurship-for-engineers
+World Music, Culture, & You: Finding Music Within Your Community~edx~TrinityX~true~https://www.edx.org/course/world-music-culture-you-finding-music-within-your-community
+4G Network Essentials~edx~IMTx~true~https://www.edx.org/course/4g-network-essentials
+Platform Strategy for Business~edx~BUx~true~undefined
+Strategic Management: From Insight to Decision~edx~RWTHx~true~undefined
+Project Management MicroMasters Capstone Exam~edx~RITx~true~undefined
+Space Mission Design and Operations~edx~EPFLx~true~https://www.edx.org/course/space-mission-design-and-operations-0
+Electricity and Magnetism: Electrostatics~edx~MITx~true~https://www.edx.org/course/electricity-and-magnetism-electrostatics
+The Free Cash Flow Method for Firm Valuation~edx~ColumbiaX~true~https://www.edx.org/course/the-free-cash-flow-method-for-firm-valuation
+Climate Change: Carbon Capture and Storage~edx~EdinburghX~true~https://www.edx.org/course/climate-change-carbon-capture-storage-edinburghx-ccsx
+People Management~edx~IIMBx~true~undefined
+Entrepreneurial Opportunities~edx~AdelaideX~true~https://www.edx.org/course/entrepreneurial-opportunities-adelaidex-entrep101x-0
+Computational Neuroscience: Neuronal Dynamics of Cognition~edx~EPFLx~true~https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-cognition
+Mobile Computing with App Inventor – CS Principles~edx~TrinityX~true~https://www.edx.org/course/mobile-computing-with-app-inventor-cs-principles-0
+The Writing Process~edx~BerkeleyX~true~https://www.edx.org/course/writing-process-uc-berkeleyx-buswri1x
+Demand and Supply Analytics~edx~ColumbiaX~true~undefined
+Communicating in a Global Context~edx~ASUx~true~undefined
+Global Marketing Strategy~edx~ASUx~true~undefined
+Buyer Behaviour and Analysis~edx~CurtinX~true~undefined
+International Investment Law~edx~LouvainX~true~undefined
+Network Security~edx~RITx~true~undefined
+Signals and Systems, Part 2~edx~IITBombayX~true~https://www.edx.org/course/signals-systems-part-2-iitbombayx-ee210-2x-3
+Sustainable Tourism: Society & Environmental Aspects~edx~WageningenX~true~https://www.edx.org/course/sustainable-tourism-society-tour01x
+Plasmonics: From Fundamentals to Modern Applications~edx~ITMOx~true~https://www.edx.org/course/plasmonics-fundamentals-modern-itmox-plasmx
+How to Win Coding Competitions: Secrets of Champions~edx~ITMOx~true~https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions
+Shaping the Future of Work~edx~MITx~true~https://www.edx.org/course/shaping-the-future-of-work
+Business Analytics for Data-Driven Decision Making~edx~BUx~true~undefined
+Differential Equations: Linear Algebra and NxN Systems of Differential Equations~edx~MITx~true~https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations
+Cloud Computing Infrastructure~edx~USMx~true~undefined
+Cloud Computing Security~edx~USMx~true~undefined
+Instructional Design: Digital Media, New Tools and Technology~edx~USMx~true~undefined
+Instructional Design Course Evaluation & Capstone Project~edx~USMx~true~undefined
+Financial Management in Organizations~edx~USMx~true~undefined
+Formal Software Verification~edx~USMx~true~undefined
+Financial Decision Making~edx~USMx~true~undefined
+Financial Accounting for Corporations~edx~USMx~true~undefined
+Rise to Leadership: Become a CEO~edx~BabsonX~true~https://www.edx.org/course/rise-to-leadership-become-a-ceo
+Energy Subsidy Reform~edx~IMFx~true~https://www.edx.org/course/energy-subsidy-reform
+International Climate Change Law and Policy~edx~NewcastleX~true~https://www.edx.org/course/international-climate-change-law-and-policy
+Thinking & Acting like an Entrepreneur~edx~RWTHx~true~undefined
+Supply Chain Design~edx~MITx~true~undefined
+Basic Analytical Chemistry~edx~UTokyoX~true~https://www.edx.org/course/basic-analytical-chemistry-utokyox-utokyo007x
+Basic 3D Animation using Blender~edx~IITBombayX~true~https://www.edx.org/course/basic-3d-animation-using-blender-iitbombayx-skani102x
+Japanese Business Management~edx~WasedaX~true~https://www.edx.org/course/japanese-business-management
+Big Data and Education~edx~PennX~true~https://www.edx.org/course/big-data-education-pennx-bde1x-0
+Human Rights and Development~edx~CurtinX~true~undefined
+Customer-Centric Innovation~edx~RWTHx~true~undefined
+Fundamentals of Macroeconomics~edx~UC3Mx~true~https://www.edx.org/course/fundamentals-of-macroeconomics
+Foundations of Data Science: Computational Thinking with Python~edx~BerkeleyX~true~https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x
+Introduction to Manufacturing Systems~edx~MITx~true~undefined
+Drawing Nature, Science and Culture: Natural History Illustration 101~edx~NewcastleX~true~https://www.edx.org/course/drawing-nature-science-culture-natural-newcastlex-nhi101x-1
+Introduction to Corporate Finance~edx~ColumbiaX~true~https://www.edx.org/course/introduction-to-corporate-finance
+Global Muckraking: Investigative Journalism and Global Media~edx~ColumbiaX~true~https://www.edx.org/course/global-muckraking-investigative-journalism-and-global-media
+Supply Chain Analytics~edx~MITx~true~undefined
+Leading High-Performing Teams~edx~UQx~true~undefined
+Quantum Information Science I, Part 3~edx~MITx~true~https://www.edx.org/course/quantum-information-science-i-part-3
+The World History of Modern Wine~edx~TrinityX~true~https://www.edx.org/course/the-history-of-modern-wine
+System Design for Supply Chain Management and Logistics~edx~ChalmersX~true~https://www.edx.org/course/system-design-supply-chain-management-chalmersx-chm005x-0
+Behavioural Economics in Action~edx~University_of_TorontoX~true~https://www.edx.org/course/behavioural-economics-in-action
+Music For Wellness~edx~BerkleeX~true~https://www.edx.org/course/music-for-wellness
+Vocal Recording Technology~edx~BerkleeX~true~https://www.edx.org/course/vocal-recording-technology
+Introduction to the Music Business~edx~BerkleeX~true~https://www.edx.org/course/introduction-to-the-music-business
+Design Thinking and Creativity for Innovation~edx~UQx~true~undefined
+Climate Science and Policy~edx~UQx~true~undefined
+Social Media Marketing~edx~BUx~true~undefined
+Leading in the Digital Age~edx~BUx~true~undefined
+Risk and Return and the Weighted Average Cost of Capital~edx~ColumbiaX~true~https://www.edx.org/course/risk-and-return-and-the-weighted-average-cost-of-capital
+Financial Accounting and Analysis~edx~IIMBx~true~https://www.edx.org/course/financial-accounting-and-analysis
+Project Finance: Funding Projects Successfully~edx~DelftX~true~https://www.edx.org/course/project-finance-funding-projects-delftx-mep301x-0
+The Science of Weight Loss: Dispelling Diet Myths~edx~NewcastleX~true~https://www.edx.org/course/the-science-of-weight-loss-dispelling-diet-myths
+NP-Complete Problems~edx~UCSanDiegoX~true~undefined
+Effective Business Writing~edx~BerkeleyX~true~https://www.edx.org/course/effective-business-writing-uc-berkeleyx-buswri2x
+Design Thinking Fundamentals~edx~RITx~true~undefined
+Business Analytics Fundamentals~edx~BabsonX~true~https://www.edx.org/course/fundamentals-of-business-analytics
+The Science of Beer~edx~WageningenX~true~https://www.edx.org/course/the-science-of-beer
+Solar Energy: Photovoltaic (PV) Systems~edx~DelftX~true~undefined
+Railway Engineering: An Integral Approach~edx~DelftX~true~https://www.edx.org/course/railway-engineering-an-integral-approach
+Design Thinking for Leading and Learning~edx~MITx~true~https://www.edx.org/course/design-thinking-for-leading-and-learning
+Restorative Justice and Practice: Emergence of a Social Movement~edx~VictoriaX~true~https://www.edx.org/course/restorative-justice-and-practice-emergence-of-a-social-movement
+Six Sigma: Define and Measure~edx~TUMx~true~https://www.edx.org/course/six-sigma-define-measure-tumx-qpls1x-0
+Six Sigma: Analyse, Improve, Control~edx~TUMx~true~https://www.edx.org/course/six-sigma-analyse-improve-control-tumx-qpls2x-0
+IoT Sensors and Devices~edx~CurtinX~true~undefined
+Sustainable Urban Freight Transport: A Global Perspective~edx~DelftX~true~https://www.edx.org/course/city-logistics-a-global-perspective
+Rethink the City: New Approaches to Global and Local Urban Challenges~edx~DelftX~true~https://www.edx.org/course/rethink-city-new-approaches-global-local-delftx-rtc1-0
+Electricity and Magnetism: Magnetic Fields and Forces~edx~MITx~true~https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forces
+Predictive Analytics~edx~IIMBx~true~https://www.edx.org/course/predictive-analytics
+Software Testing Management~edx~USMx~true~undefined
+Becoming an Effective Leader~edx~UQx~true~undefined
+A System View of Communications: From Signals to Packets (Part 3)~edx~HKUSTx~true~https://www.edx.org/course/a-system-view-of-communications-from-signals-to-packets-part-3
+Engineering Design for a Circular Economy~edx~DelftX~true~https://www.edx.org/course/product-design-for-a-circular-economy
+Managing Human Resources in the Hospitality and Tourism Industry~edx~HKPolyUx~true~undefined
+Managing Marketing in the Hospitality and Tourism Industry~edx~HKPolyUx~true~undefined
+Hospitality and Tourism Technology and Innovation~edx~HKPolyUx~true~undefined
+Luxury Management~edx~HKPolyUx~true~undefined
+Data Analytics for Business~edx~GTx~true~undefined
+Introduction to Computing for Data Analysis~edx~GTx~true~undefined
+GT Introduction to Analytics Modeling~edx~GTx~true~undefined
+Database Systems Concepts and Design~edx~GTx~true~https://www.edx.org/course/database-systems-concepts-design-gtx-cs6400x-1
+Statistical Modeling and Regression Analysis~edx~GTx~true~https://www.edx.org/course/regression-analysis
+Simulation and Modeling for Engineering and Science~edx~GTx~true~https://www.edx.org/course/simulation-and-modeling-for-engineering-and-science
+Introduction to Business for Analytics~edx~GTx~true~https://www.edx.org/course/business-fundamentals-analytics-gtx-mgt6754
+Time Series Analysis~edx~GTx~true~https://www.edx.org/course/time-series-analysis-0
+Data and Visual Analytics~edx~GTx~true~https://www.edx.org/course/data-and-visual-analytics-0
+Big Data Analytics Using Spark~edx~UCSanDiegoX~true~undefined
+Master Control in Supply Chain Management and Logistics~edx~ChalmersX~true~https://www.edx.org/course/master-control-in-supply-chain-management-and-logistics
+Sustainable Tourism: Rethinking the future~edx~WageningenX~true~https://www.edx.org/course/sustainable-tourism-rethinking-future-tour02x
+Topics in Engineering Management~edx~MITx~true~undefined
+Innovation & Creativity Management~edx~RWTHx~true~undefined
+Entrepreneurial Land Redevelopment Approach: Land Readjustment~edx~MITx~true~https://www.edx.org/course/entrepreneurial-land-redevelopment-approach-land-readjustment
+Managing the Value of Customer Relationships~edx~Wharton~false~https://www.edx.org/course/managing-value-customer-relationships-wharton-customervaluex-5
+Fundamentals of Digital Marketing, Social Media, and E-Commerce~edx~Wharton~false~https://www.edx.org/course/digital-marketing-social-media-and-e-commerce-for-your-business
+Marketing Analytics: Data Tools and Techniques~edx~Wharton~false~https://www.edx.org/course/marketing-analytics-data-tools-and-techniques
+Selling Ideas: How to Influence Others, and Get Your Message to Catch On~edx~Wharton~false~https://www.edx.org/course/selling-ideas-how-to-influence-others-and-get-your-message-to-catch-on
+Business Strategy from Wharton: Competitive Advantage~edx~Wharton~false~https://www.edx.org/course/business-strategy-from-wharton-competitive-advantage
+Introduction to Money Markets~edx~NYIF~false~https://www.edx.org/course/introduction-money-markets-new-york-institute-finance-cm2-x
+Introduction to Foreign Exchange (FX)~edx~NYIF~false~https://www.edx.org/course/introduction-foreign-exchange-fx-new-york-institute-finance-cm3-x
+Introduction to Time Value of Money~edx~NYIF~false~https://www.edx.org/course/introduction-time-value-money-new-york-institute-finance-cm4-x
+Introduction to Bond, Equity Markets and Financial Regulation~edx~NYIF~false~https://www.edx.org/course/introduction-bond-equity-markets-new-york-institute-finance-cm5-x
+Introduction to Brokerage Operations~edx~NYIF~false~https://www.edx.org/course/introduction-brokerage-operations-new-york-institute-finance-bopc-1x
+The Marketplace, Trade Process, Clearing Corporations and Settlement~edx~NYIF~false~https://www.edx.org/course/marketplace-trade-process-clearing-new-york-institute-finance-bopc-2x
+Brokerage Operations Professional Certificate Examination~edx~NYIF~false~https://www.edx.org/course/brokerage-operations-professional-new-york-institute-finance-bopc-4x
+Introduction to Custody Servicing, Margins, and Accounting Records~edx~NYIF~false~https://www.edx.org/course/introduction-custody-servicing-margins-new-york-institute-finance-bopc-3x
+Mortgage Backed Securities (MBS): Part I~edx~NYIF~false~https://www.edx.org/course/mortgage-backed-securities-mbs-part-i-new-york-institute-finance-mbs1-pc1x
+Mortgage Backed Securities (MBS): Professional Certificate Examination~edx~NYIF~false~https://www.edx.org/course/mortgage-backed-securities-mbs-new-york-institute-finance-mbs1-pcexamx
+Mortgage Backed Securities (MBS): Part II~edx~NYIF~false~https://www.edx.org/course/mortgage-backed-securities-mbs-part-ii-new-york-institute-finance-mbs2-pc2x
+Customer Protection Rule 15C3-3~edx~NYIF~false~https://www.edx.org/course/customer-protection-rule-15c3-3-new-york-institute-finance-cprx
+M&A: Concepts and Theories~edx~NYIF~false~https://www.edx.org/course/ma-concepts-theories-new-york-institute-finance-ma1-1x
+M&A Concepts and Theories: Advanced Topics~edx~NYIF~false~https://www.edx.org/course/ma-concepts-theories-advanced-topics-new-york-institute-finance-ma1-2x
+M&A: Structuring the Deal~edx~NYIF~false~https://www.edx.org/course/ma-structuring-deal-new-york-institute-finance-ma1-3x
+M&A: Free Cash Flow (FCF) Modeling~edx~NYIF~false~https://www.edx.org/course/ma-free-cash-flow-fcf-modeling-new-york-institute-finance-ma1-4x
+Accounting Principles for M&A~edx~NYIF~false~https://www.edx.org/course/accounting-principles-ma-new-york-institute-finance-ma1-5x
+M&A Professional Certificate Examination~edx~NYIF~false~https://www.edx.org/course/ma-professional-certificate-examination-new-york-institute-finance-ma1-6x
+Project Finance and Public Private Partnerships Fundamentals~edx~NYIF~false~https://www.edx.org/course/project-finance-public-private-new-york-institute-finance-pfppp1-pc1x
+Deal Structures in Project Finance~edx~NYIF~false~https://www.edx.org/course/deal-structures-project-finance-new-york-institute-finance-pfppp1-pc2x
+The Project Finance Process~edx~NYIF~false~https://www.edx.org/course/project-finance-process-new-york-institute-finance-pfppp1-pc3x
+Deals in Project Finance: Case Studies and Analysis~edx~NYIF~false~https://www.edx.org/course/deals-project-finance-case-studies-new-york-institute-finance-pfppp1-pc4x
+Documentation in Project Finance~edx~NYIF~false~https://www.edx.org/course/documentation-project-finance-new-york-institute-finance-pfppp1-pc5x
+Introduction to Risk Management~edx~NYIF~false~https://www.edx.org/course/introduction-risk-management-new-york-institute-finance-rmpc1-1x-0
+Measuring Risk: Equity, Fixed Income, Derivatives and FX~edx~NYIF~false~https://www.edx.org/course/measuring-risk-equity-fixed-income-new-york-institute-finance-rmpc1-2x-0
+Risk Management Tools and Practices~edx~NYIF~false~https://www.edx.org/course/risk-management-tools-practices-new-york-institute-finance-rmpc1-3x-0
+Stress Testing and Risk Regulation – Part 1~edx~NYIF~false~https://www.edx.org/course/stress-testing-risk-regulation-part-1-new-york-institute-finance-rmpc1-4x-0
+Stress Testing and Risk Regulation – Part 2~edx~NYIF~false~https://www.edx.org/course/stress-testing-risk-regulation-part-2-new-york-institute-finance-rmpc1-5x-0
+Risk Management Professional Certificate Examination~edx~NYIF~false~https://www.edx.org/course/risk-management-professional-certificate-new-york-institute-finance-rmpc1-6x-0
+Legal Risk Management Strategies for Multinational Enterprises~edx~BUx~false~https://www.edx.org/course/legal-risk-management-strategies-bux-compliancex
+Biospecimen Research Methods~edx~UBCx~false~https://www.edx.org/course/biospecimen-research-methods-ubcx-biobank1x-2
+Silicon Photonics Design, Fabrication and Data Analysis~edx~UBCx~false~https://www.edx.org/course/silicon-photonics-design-fabrication-and-data-analysis
+Capstone Assessment: Leadership in Global Development~edx~UQx~false~undefined
+How to Write a Novel: Structure & Outline~edx~UBCx~false~https://www.edx.org/course/how-to-write-a-novel-structure-outline
+Evidence-Based Management Capstone~edx~ANUx~false~undefined
+Financial Accounting~edx~ACCA~false~https://www.edx.org/course/financial-accounting-acca-ffa-f3-x-9
+Management Accounting~edx~ACCA~false~https://www.edx.org/course/management-accounting-acca-fma-f2-x-9
+Accountant in Business~edx~ACCA~false~https://www.edx.org/course/accountant-in-business
