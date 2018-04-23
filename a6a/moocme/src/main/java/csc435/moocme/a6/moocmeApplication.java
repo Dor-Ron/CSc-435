@@ -1,10 +1,10 @@
 package csc435.moocme.a6;
 
 import csc435.moocme.a6.resources.CoursesResource;
+import csc435.moocme.a6.resources.IndividualResource;
 import csc435.moocme.a6.resources.PlatformResource;
 
 import csc435.moocme.a6.view.CoursesMapper;
-// import csc435.moocme.a6.view.PostMapper;
 
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
@@ -32,19 +32,21 @@ public class moocmeApplication extends Application<moocmeConfiguration> {
     public void run(final moocmeConfiguration configuration,
                     final Environment environment) {
 
+        // connect to DB
         final JdbiFactory orm = new JdbiFactory();
         final Jdbi db = orm.build(environment, configuration.getDataSource(), "mysql");
 
+        //  register schema with ORM
         db.registerRowMapper(new CoursesMapper());
-        // db.registerRowMapper(new PostMapper());
 
-        // db.registerRowMapper(new BookMapper());
-        // db.registerRowMapper(new BookAuthorMapper());
-
+        //  declare controllers 
         final CoursesResource resource = new CoursesResource(db);
         final PlatformResource resource2 = new PlatformResource(db);
+        final IndividualResource resource3 = new IndividualResource(db);
 
+        //  register controllers with main app
         environment.jersey().register(resource);
         environment.jersey().register(resource2);
+        environment.jersey().register(resource3);
     }
 }

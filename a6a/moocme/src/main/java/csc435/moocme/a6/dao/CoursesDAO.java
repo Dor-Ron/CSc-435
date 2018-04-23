@@ -36,4 +36,21 @@ public interface CoursesDAO {
                          @Bind("free") Boolean free,
                          @Bind("plat") String plat
                         );
-    }
+    
+
+    //    /courses/{platform}/{id}
+    @SqlQuery("select * from courses where (id = :id) and (platform = :plat)")
+    public Mooc getSingleCourse(@Bind("id") Integer id, @Bind("plat") String plat);
+
+    @SqlUpdate("update courses as c set title = :title, institution = :inst, uri = :uri, free = :free, platform = :plat where (id = :id)")
+    public void updateMooc(@Bind("id") Integer id,
+                         @Bind("title") String title, 
+                         @Bind("inst") String inst,
+                         @Bind("uri") String uri,
+                         @Bind("free") Boolean free,
+                         @Bind("plat") String plat
+                        );
+
+    @SqlUpdate("delete from courses where (id = :id) and (platform = :plat)")
+    public void delMooc(@Bind("id") Integer id, @Bind("plat") String plat);
+}

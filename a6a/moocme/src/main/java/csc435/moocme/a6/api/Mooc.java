@@ -39,6 +39,8 @@ public class Mooc {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id", updatable = false, nullable = false)
+    @JsonProperty
     public int id;
 
 

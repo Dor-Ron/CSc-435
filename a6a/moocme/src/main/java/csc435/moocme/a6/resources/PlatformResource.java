@@ -33,6 +33,7 @@ public class PlatformResource {
 
     private final CoursesDAO cDAO;
 
+    // connect to db
     public PlatformResource(Jdbi db) {
         cDAO = db.onDemand(CoursesDAO.class);
     }
@@ -42,9 +43,9 @@ public class PlatformResource {
     public Response doGet(@QueryParam("free") Optional<String> price, @PathParam("platform") String plat) {
         String platforma = plat.toLowerCase();
         if (platforma.equals("coursera") || platforma.equals("edx") || platforma.equals("udacity")) {
-            if (price.isPresent() && price.equals(Optional.of("true"))) 
+            if (price.isPresent() && price.equals(Optional.of("true"))) // get free 
                 return Response.ok(cDAO.getPlatFreeCourses(platforma)).build();
-            return Response.ok(cDAO.getPlatCourses(platforma)).build();
+            return Response.ok(cDAO.getPlatCourses(platforma)).build(); // get all
         } return Response.status(404).build();
     }
 
@@ -55,11 +56,13 @@ public class PlatformResource {
                            @PathParam("platform") String plat) throws IOException {
         String platforma = plat.toLowerCase();
 
+
+        // parse req body & convert to JSON
         ObjectMapper mapper = new ObjectMapper();
         Mooc newObj = mapper.readValue(req.getInputStream(), Mooc.class);
 
         if (platforma.equals("coursera") || platforma.equals("edx") || platforma.equals("udacity")) {
-            if (auth.isPresent() && auth.equals(Optional.of("true"))) {
+            if (auth.isPresent() && auth.equals(Optional.of("true"))) { // authenticated & valid platform path
                 cDAO.postMooc(
                     newObj.title,
                     newObj.institution,
@@ -69,7 +72,7 @@ public class PlatformResource {
                 );
                 return Response.ok(201).build();
             } else 
-                return Response.status(401).build();
+                return Response.status(401).build();  // unauthorized
         } return Response.status(404).build();
     }
 }
