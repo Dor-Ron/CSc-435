@@ -19,27 +19,27 @@ public class Mooc {
 
     @Column(name = "title")
     @JsonProperty
-    private String title;
+    public String title;
 
     @Column(name = "platform")
     @JsonProperty
-    private String platform;
+    public String platform;
 
     @Column(name = "institution")
     @JsonProperty
-    private String institution;
+    public String institution;
 
     @Column(name = "uri")
     @JsonProperty
-    private String url;
+    public String url;
 
     @Column(name = "free")
     @JsonProperty
-    private Boolean free;
+    public Boolean free;
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    public int id;
 
 
     public Mooc() {
@@ -62,34 +62,4 @@ public class Mooc {
         this.url = uri;
         this.free = price;
     } 
-
-    @JsonIgnore
-    public String getTitle() {
-        return title;
-    }
-
-    @JsonIgnore
-    public String getPlatform() {
-        return platform;
-    }
-
-    @JsonIgnore
-    public String getInst() {
-        return institution;
-    }
-
-    @JsonIgnore
-    public String getUrl() {
-        return url;
-    }
-
-    @JsonIgnore
-    public Boolean getPrice() {
-        return free;
-    }
-
-    @JsonIgnore
-    public int getId() {
-        return id;
-    }
 }
